@@ -1,0 +1,7742 @@
+Overview
+
+Major
+
+Raikes School
+
+Minor
+
+Accel. Master's
+
+Courses
+
+4-Year Plans
+
+Career Development
+
+On This Page
+Description
+Introductory Courses
+Major Department Admission
+College Requirements
+College Admission
+Other Admission Requirements
+College Degree Requirements
+Grade Rules
+Catalog Rule
+Learning Outcomes
+
+Description
+
+Website: 
+https://computing.unl.edu
+
+email: 
+computing@unl.edu
+
+The University of Nebraska–Lincoln School of Computing offers Nebraska’s only comprehensive program of higher education, research, and service outreach in computer science,  computer engineering, and software engineering.
+
+The School of Computing offers a challenging baccalaureate degree program in computer science that prepares graduates for professional practice as computer scientists, provides the basis for advanced studies in the field, and establishes a foundation for lifelong learning and achievement. The Computer Science (BS) program is accredited by the Computing Accreditation Commission of ABET, 
+https://www.abet.org
+, under the commission’s General Criteria and Program Criteria for Computer Science and Similarly Named Computing Programs.
+
+The School of Computing also offers a degree of bachelor of science in computer engineering and a bachelor of science in software engineering. All students with a major in the School of Computing should see their advisor during the first semester to ensure they understand the requirements for each School of Computing undergraduate degree program. Students should consult with their advisors each semester for registration advising.
+
+Introductory Courses
+
+Entering students may select from several introductory courses according to their interests. The Computer Science I courses (
+CSCE 155A
+Computer Science I
+, 
+CSCE 155H
+Honors: Computer Science I
+, 
+CSCE 155E
+Computer Science I: Systems Engineering Focus
+, and 
+CSCE 155T
+Computer Science I: Informatics Focus
+) all provide a foundation in designing and programming computing solutions and prepare students for more advanced CSCE courses, including 
+CSCE 156
+Computer Science II
+
+. These courses are designed to meet different interests. 
+CSCE 155A
+is designed for students majoring in Computer Science.  
+CSCE 155H
+is for honors students. 
+CSCE 155E
+ emphasizes computing for systems engineering, such as control systems, mobile computing, and embedded devices and is designed for students majoring in computer engineering. 
+CSCE 155T
+ focuses on data and information processing, such as document or database applications, online commerce, or bioinformatics. 
+CSCE 156
+is for students with a background in designing and programming computing solutions, such as is provided by 
+CSCE 155A
+. 
+CSCE 101
+Fundamentals of Computer Science
+is for students seeking a broad introduction to computer science with brief instruction in computer programming. 
+CSCE 100
+Introduction to Informatics
+focuses on the use of data-centric and information technologies and on issues and challenges in the application of computing in the sciences, engineering, the humanities, and the arts.
+
+Program Assessment. 
+In order to assist the school in evaluating the effectiveness of its programs, majors will be required in their senior year to complete a written exit survey. The results of participation in these assessment activities will in no way affect a student's GPA or graduation.
+
+Graduate Programs.
+The School of Computing offers several graduate degree programs: master of science in computer science, accelerated master of science in computer science, master of science in computer science with a computer engineering specialization, master of science in computer science with a bioinformatics specialization, doctor of philosophy in computer science, doctor of philosophy in engineering with a computer engineering specialization, doctor of philosophy in computer science with a bioinformatics specialization, and joint doctor of philosophy in computer science and mathematics. See the 
+Graduate Studies Catalog
+for details.
+
+Major Department Admission
+
+Students are expected to meet minimum university entrance requirements. After being admitted to the college, students desiring to pursue a degree in computer science must go through the Professional Admission process, which is automatically performed for qualifying students at the end of the sophomore year. In order to be considered for Professional Admission to the computer science program, students must receive a "P" or "C" or above in 
+CSCE 310
+Data Structures and Algorithms
+(
+RAIK 283H
+Honors: Software Engineering III
+) and have a GPA of at least 2.5 (semester and cumulative). If a student's cumulative GPA drops below 2.4, the student may be placed on restricted status, may be removed from the College, and may not be able to graduate.
+
+ 
+
+College Requirements
+
+College Admission
+
+College Entrance Requirements
+
+Students must meet both the University and College of Engineering entrance requirements.  The following includes both the University and College of Engineering entrance requirements.
+
+Students must have high school credit for (one unit is equal to one high school year):
+
+
+Mathematics – 4 units: 2 of algebra, 1 of geometry, and 1 of precalculus and trigonometry
+
+English – 4 units
+
+Natural sciences – 3 units that must include 1 unit of physics and 1 unit of chemistry (chemistry requirement waived for students in construction management, computer engineering, computer science, data science, or software engineering)
+
+Foreign language – 2 units of a single foreign language
+
+Social studies – 3 units
+
+Students having a composite ACT score of 28 or greater (or equivalent SAT score) will be admitted to the College of Engineering even if they lack any one of the following: trigonometry, chemistry, or physics. Students without test scores who are missing a full unit of trigonometry/pre-calculus/calculus or chemistry or physics will be evaluated through College Review.
+
+Students having an ACT score of 19 or less in English (or equivalent SAT score) or a grade lower than B in high school English, must take 
+ENGL 150
+Writing and Inquiry
+or 
+ENGL 151
+Writing for Change
+.
+
+
+A total of 16 units is required for admission.
+
+
+Engineering requires that student performance meet one of the following standards: composite ACT of 24, SAT of 1180, ACT Math 
+subscore
+ of 24, SAT Math 
+subscore
+ of 580, or a 3.5 cumulative GPA.
+ 
+
+
+ 
+
+
+
+Any domestic 
+first-year
+ student who does not gain admission to Engineering but does gain admission to the University of Nebraska-Lincoln 
+(UNL) 
+will be reviewed through College Review. College Review is conducted through the College Review Committee which considers factors beyond standardized testing. 
+Any 
+first
+-year
+ student who is not admitted through college review is placed in Pre-Engineering (PENG) with the 
+Exploratory and Pre-Professional Advising Center (Explore Center)
+. Students in the Explore Center 
+can
+ transfer to the 
+C
+ollege of 
+E
+ngineering once college admission requirements are met.
+ 
+ 
+
+
+
+Students for whom English is not their language of nurture must meet the minimum English proficiency requirements of the University.
+ 
+ 
+
+
+
+Students who lack entrance units may complete precollege training by Independent Study through the University of Nebraska–Lincoln Office of On-line and Distance Education, in summer courses, or as a part of their first or second semester course loads while in the E
+xplore 
+Center or other 
+c
+olleges at 
+UNL
+.
+ 
+ 
+
+
+
+Students should consult their advisor, their department chair, or Engineering Student Services
+ (ESS)
+ if they have questions on current policies.
+ 
+ 
+
+
+
+Other Admission Requirements
+
+
+
+Students who transfer to the University of Nebraska–Lincoln from other accredited colleges or universities and wish to be admitted to the College of Engineering (COE) must meet COE 
+first-year
+ 
+student 
+entrance requirements, have a minimum cumulative GPA of 2.5, and be calculus-ready. Students not meeting either of these requirements must enroll in the Explore Center or another University college until they meet COE admission requirements. Students transferring from 
+UNO
+, 
+UNL
+, or 
+UNK
+ to the College of Engineering must be in good academic standing with their institution.
+ 
+ 
+
+
+
+The COE accepts courses for transfer for which a C or better grade was received from colleges outside of the NU system. Although the University of Nebraska–Lincoln and the College of Engineering in general accepts C- and D grades from the University of Nebraska Kearney and the University of Nebraska Omaha, not all majors in the COE accept such low grades. Students must conform to the requirements of their intended major and, in any case, are strongly encouraged to repeat courses with a grade of C- or less.
+
+
+
+Students who were previously admitted to COE and are returning to the College of Engineering must 
+demonstrate
+ a cumulative GPA of 2.5 
+to
+ be readmitted to COE.
+
+
+
+College Degree Requirements
+
+Grade Rules
+
+Grade Appeals
+
+In the event of a dispute involving any college policies or grades, the student should appeal to their instructor, and appropriate department chair or school director (in that order). If a satisfactory solution is not achieved, the student may appeal their case through the College Academic Appeals 
+Subc
+ommittee.
+ 
+
+Catalog Rule
+
+
+Students must fulfill the requirements stated in the catalog for the academic year in which they are first admitted at the University of Nebraska–Lincoln. In consultation with advisors, a student may choose to follow a subsequent catalog for any academic year in which they are admitted to and enrolled as a degree-seeking student at Nebraska in the College of Engineering. Students must complete all degree requirements from a single catalog year. The catalog which a student follows for degree requirements may not be more than 10 years old at the time of graduation.
+ 
+
+
+
+Students who have transferred from a community college may be eligible to fulfill the requirements as 
+stated
+ in the catalog for an academic year in which they were enrolled at the community college prior to attending the University of Nebraska-Lincoln. This decision should be made in consultation with the student’s College of Engineering academic advising team (e.g., 
+ESS
+ professional advisor and the chief faculty advisor for the student’s declared degree program). The chief faculty advisor has the final authority for this decision. Eligibility is based on a) enrollment in a community college during the catalog year the student wishes to 
+utilize
+, b) 
+maintaining
+ continuous enrollment of at least 12 credit hours per semester at the 
+previous
+ institution for at least 2 semesters, and c) continuous enrollment at the University of Nebraska-Lincoln within 1 calendar year from the student’s last term at the 
+previous
+ institution.  Students must complete all degree requirements from a single catalog year and within the timeframe allowable for that catalog year.
+ 
+
+
+Learning Outcomes
+
+Graduates of the computer science program will be able to:
+
+Analyze a complex computing problem and to apply principles of computing and other relevant disciplines to identify solutions.
+
+Design, implement, and evaluate a computing-based solution to meet a given set of computing requirements in the context of the program’s discipline.
+
+Communicate effectively in a variety of professional contexts.
+
+Recognize professional responsibilities and make informed judgments in computing practice based on legal and ethical principles.
+
+Function effectively as a member or leader of a team engaged in activities appropriate to the program’s discipline.
+
+Apply computer science theory and software development fundamentals to produce computing-based solutions.
+
+The above student outcomes have been approved by the ABET Engineering Area Delegation for use beginning with the 2019-20 academic year, and have been adopted by the School of Computing faculty.
+
+Major Requirements
+
+Core Requirements
+
+Course List
+
+Code
+Title
+Credit Hours
+Required Computer Science Courses
+
+CSCE 10
+Introduction to the School of Computing 
+5
+0
+
+or 
+RAIK 10
+Raikes School Freshman Seminar
+
+or 
+ENGR 10
+Freshman Engineering Seminar
+
+or 
+ENGR 30
+Transfer Student Engineering Seminar
+
+Select one of the following:
+3
+
+CSCE 155A
+Computer Science I
+
+CSCE 155H
+Honors: Computer Science I
+
+CSCE 155E
+Computer Science I: Systems Engineering Focus
+
+CSCE 155T
+Computer Science I: Informatics Focus
+
+CSCE 156
+Computer Science II
+4
+
+or 
+CSCE 156H
+Honors: Computer Science II
+
+CSCE 231
+Computer Systems Engineering
+4
+
+CSCE 235
+Introduction to Discrete Structures
+3
+
+or 
+CSCE 235H
+Honors: Introduction to Discrete Structures
+
+CSCE 251
+Unix Programming Environment
+1
+
+CSCE 310
+Data Structures and Algorithms
+3
+
+or 
+CSCE 310H
+Honors: Data Structures and Algorithms
+
+CSCE 322
+Programming Language Concepts
+3
+
+CSCE 361
+Software Engineering
+3
+
+or 
+CSCE 361H
+Software Engineering
+
+Credit Hours Subtotal: 
+24
+
+Specific Major Requirements 
+
+Course List
+
+Code
+Title
+Credit Hours
+Depth Courses
+
+CSCE 351
+System Resource Management
+3
+
+or 
+CSCE 451
+Operating Systems Principles
+
+CSCE 320
+Data Analysis
+3
+
+CSCE 423
+Design and Analysis of Algorithms
+3
+
+or 
+CSCE 428
+Automata, Computation, and Formal Languages
+
+Core AI, Networking, Cybersecurity, and Robotics Course
+
+Select one from: 
+CSCE 336
+, 
+CSCE 360
+, 
+CSCE 362
+, 
+CSCE 377
+, 
+CSCE 410
+, 
+CSCE 411
+, 
+CSCE 413
+, 
+CSCE 415
+, 
+CSCE 417
+, 
+CSCE 420
+, 
+CSCE 421
+, 
+CSCE 422
+, 
+CSCE 436
+, 
+CSCE 438
+, 
+CSCE 439
+, 
+CSCE 443
+, 
+CSCE 454
+, 
+CSCE 458
+, 
+CSCE 459
+, 
+CSCE 460
+, 
+CSCE 462
+, 
+CSCE 463
+, 
+CSCE 464
+, 
+CSCE 465
+, 
+CSCE 469
+, 
+CSCE 471
+, 
+CSCE 472
+, 
+CSCE 473
+, 
+CSCE 474
+, 
+CSCE 475
+, 
+CSCE 476
+, 
+CSCE 478
+, 
+CSCE 479
+, or 
+CSCE 480H
+3
+
+Credit Hours Subtotal: 
+12
+
+Technical Electives
+
+Select 9-11 hours of technical courses from any CSCE 300- or 400-level course.
+
+1 2 3
+9-11
+
+Computer Science majors may choose to select classes that focus around a particular area of study. See advisors and 
+https://computing.unl.edu/focus-areas
+/ for more information.
+
+Credit Hours Subtotal: 
+9-11
+
+Senior Design Experience (ACE 8 & ACE 10)
+
+Select one of the following sequences.
+
+4
+6
+
+CSCE 486
+& 
+CSCE 487
+Computer Science Professional Development
+and Computer Science Senior Design Project
+
+CSCE 486H
+& 
+CSCE 487H
+Honors Computer Science Professional Development
+and Honors Computer Science Senior Design Project
+
+CSCE 401H
+& 
+CSCE 402H
+Honors: RAIK Design Studio I
+and Honors: RAIK Design Studio II
+
+Credit Hours Subtotal: 
+6
+
+Total Credit Hours
+27-29
+
+
+1 
+
+Select from any CSCE/RAIK 300 or 400 course except 
+CSCE 320
+, 
+CSCE 391
+, 
+and 
+RAIK courses lacking CSCE equivalents 
+(except that
+
+RAIK 401H
+, 
+RAIK 402H
+, 
+RAIK 403H
+, 
+RAIK 404H
+,
+
+RAIK 405H
+, and 
+RAIK 406H
+are acceptable as technical electives)
+.
+
+2 
+
+Up to 3 hours of  
+CSCE 495
+can be used for technical courses. No more than one of 
+MATH 428
+, 
+MATH 433
+, 
+MATH 439
+, 
+MATH 450
+, 
+MATH 452
+may be used. At least 6 credit hours of technical courses must be other than 
+CSCE 394
+,
+
+CSCE 399
+, 
+CSCE 495
+, 
+CSCE 493
+, 
+CSCE 498
+, 
+CSCE 399H
+, 
+RAIK 401H
+, 
+RAIK 402H
+, 
+RAIK 403H
+, 
+RAIK 404H
+, 
+RAIK 405H
+, and 
+RAIK 406H
+.
+
+3 
+
+CSCE 101
+
+or 
+ENGR 101
+may be used to satisfy a technical elective for Computer Science majors if taken at UNL prior to taking  
+CSCE 155 (
+CSCE 155A
+, 
+CSCE 155E
+, 
+CSCE 155H
+, 
+CSCE 155N
+, or 
+CSCE 155T
+)
+, 
+CSCE 156
+/
+CSCE 156H
+, 
+CSCE 310
+/
+CSCE 310H
+, and 
+CSCE 361
+/
+CSCE 361H
+.
+
+4 
+
+Course sequences should be taken in consecutive semesters. 
+CSCE 401H
+and 
+CSCE 402H
+are by invitation and permission only.
+
+5 
+
+ENGR 193
+
+may apply for 
+ENGR 10
+(students must be in the Kiewit Scholars Program to take the course). 
+
+Ancillary Requirements
+
+Course List
+
+Code
+Title
+Credit Hours
+Breadth Course- Arts, Humanities, & Social Sciences
+
+Complete 3 credits from ACE 5, 6, or 7 approved courses
+3
+
+Credit Hours Subtotal: 
+3
+
+Breadth Course- Global Awareness/Human Diversity
+
+Complete 3 credits from ACE 9 approved courses
+3
+
+Credit Hours Subtotal: 
+3
+
+World Language
+
+Fulfilled by the completion of the 2nd level of a single language (either in H.S. or in college). Language study at UNL is available in: ARAB, CHIN, CZEC, FREN, GERM, GREK, JAPN, LATN, SPAN, or SLPA.
+
+2
+
+A student who has completed the 2nd level of one world language in high school is exempt from the language requirement, but encouraged to continue on in their language studies.
+
+Mathematics
+
+MATH 106
+Calculus I (ACE 3)
+5
+
+MATH 107
+Calculus II
+4
+
+MATH 314
+Linear Algebra
+3
+
+STAT 380
+/ 
+RAIK 270H
+Statistics and Applications
+3
+
+Credit Hours Subtotal: 
+15
+
+Science (ACE 4)
+
+Select 12 credit hours of courses intended for science or engineering majors including at least one laboratory. Acceptable disciplines and courses are (not an exhaustive list):
+12
+
+Chemistry
+
+CHEM 109A
+& 
+CHEM 109L
+General Chemistry I
+and General Chemistry I Laboratory
+
+1
+4
+
+CHEM 110A
+& 
+CHEM 110L
+General Chemistry II
+and General Chemistry II Laboratory
+
+1
+4
+
+CHEM 221A
+& 
+CHEM 221L
+Elementary Quantitative Analysis
+and Elementary Quantitative Analysis Laboratory
+
+1
+
+CHEM 113A
+& 
+CHEM 113L
+Fundamental Chemistry I
+and Fundamental Chemistry I Laboratory
+
+1
+4
+
+CHEM 114
+Fundamental Chemistry II
+
+Physics and Astronomy
+
+PHYS 141
+Physics for Life Sciences I 
+1
+
+PHYS 142
+Physics for Life Sciences II 
+1
+
+PHYS 211
+General Physics I
+
+PHYS 221
+General Physics Laboratory I 
+1
+
+PHYS 212
+General Physics II
+
+PHYS 222
+General Physics Laboratory II 
+1
+
+PHYS 213
+General Physics III
+
+PHYS 223
+General Physics Laboratory III 
+1
+
+ASTR 204
+Introduction to Astronomy and Astrophysics
+
+ASTR 224
+Astronomy and Astrophysics Laboratory 
+1
+
+Biological Sciences
+
+BIOS 111
+Introduction to Microbiology and Human Health 
+1
+
+BIOS 201
+General Genetics
+
+BIOS 202
+Genetics, Molecular and Cellular Biology Laboratory 
+1
+
+BIOS 207
+Ecology and Evolution 
+1
+
+LIFE 120
+& 
+120L
+Fundamentals of Biology I
+and Fundamentals of Biology I laboratory
+
+1
+
+LIFE 121
+& 
+121L
+Fundamentals of Biology II
+and Fundamentals of Biology II Laboratory
+
+1
+
+Earth and Atmospheric Sciences
+
+GEOG 155
+Elements of Physical Geography 
+1
+
+GEOL 101
+Dynamic Earth 
+1
+
+GEOL 103
+Earth Through Time 
+1
+
+GEOL 410
+Geochemistry
+
+METR 100
+Weather and Climate 
+1
+
+METR 205
+Introduction to Atmospheric Science 
+1
+
+METR 370
+Applied Climatology
+
+Anthropology
+
+ANTH 242
+Introduction to Biological Anthropology
+
+ANTH 242L
+Introduction to Biological Anthropology Laboratory 
+1
+
+Credit Hours Subtotal: 
+24
+
+ACE Requirements
+
+Complete 3 credits from ACE 1 approved courses with BSAD, ENGL, ENGR, or JGEN prefixes
+3
+
+Select one course each from ACE 2, 5, 6, 7, and 9
+15
+
+Credit Hours Subtotal: 
+18
+
+Total Credit Hours
+63
+
+
+1 
+
+
+Indicates a lab course or that a lab is included with the course.
+
+2 
+
+ARAB 102
+, 
+CHIN 102
+, 
+CZEC 102
+, 
+FREN 102
+, 
+GERM 102
+, 
+GREK 102
+
+o
+r 
+GREK 151
+, 
+JAPN 102
+, 
+LATN 102
+, 
+SPAN 102
+
+or
+
+SPAN 110
+
+or
+
+SPAN 300A
+, 
+or
+
+SLPA 102
+.
+
+Minor Requirement
+
+Complete at least one minor or a second major.
+
+Additional Major Requirements
+
+Grade Rules
+
+C- and D Grades
+
+A grade of C or above is required for all courses in the major and minor, excluding ancillary courses 
+taken within the NU System.
+
+Pass/No Pass
+
+Students in the computer science program must take 
+CSCE 10
+with the grading option Pass/No Pass. In addition to the University of Nebraska–Lincoln's requirements regarding Pass/No Pass grading, the following restrictions apply to courses taken with the Pass/No Pass option:
+
+Up to six (6) credit hours of Pass/No Pass coursework can be taken in the major (CSCE) courses.
+
+Up to 24 credit hours can be taken with the Pass/No Pass grading option to fulfill Ancillary course requirements and/or ACE requirements.
+
+A maximum of 24 credit hours of Pass/No Pass grades can be applied toward degree requirements. This includes all Pass/No Pass grades earned at the University of Nebraska–Lincoln and other U.S. schools.
+
+Course Level Requirement
+
+Thirty (30) of the 120 credit hours must be in courses numbered at the 300 or 400 level. Of those 30 hours, 15 credit hours must be completed in residence at the University of Nebraska–Lincoln. Thirteen (13) hours of the CSCE courses must be at the 400 level for students not completing the Raikes School version of the major.
+
+Residency Requirement
+
+Students must complete at least 30 of the 120 total hours for their degree at the University of Nebraska–Lincoln. Students must complete at least 23 hours of their major coursework and 15 of the 30 credit hours required at the 300 or 400 level in residence. Credit earned during education abroad may be used toward the residency requirement only if students register through the University of Nebraska–Lincoln.
+
+Restriction
+
+Students majoring in computer science may not declare a minor in informatics or software development.
+
+ 
+
+Jeffrey S. Raikes School of Computer Science and Management
+
+ 
+
+Description
+
+The Jeffrey S. Raikes School of Computer Science and Management is a unique program developing world-class innovators and leaders through an interdisciplinary computer science and business management education. Raikes School students are selected from the nation's top high school graduates. The typical Raikes School student scores a 31 or higher on their ACT (or 1400 on the SAT), ranks in the top 10% of their high school class and has challenged themselves both inside and outside the classroom.
+
+Students who wish to be considered for admission to the Raikes School must complete the application to the University of Nebraska as well as the application for the University Honors Program and the Raikes School. Submitted applications are then reviewed by the Director of Recruitment and Student Success based on the following areas: academics, oral and written communication, business and/or computer programming experience, leadership and service experience, involvement and related work experience. Interviews are conducted with selected candidates in January. At the beginning of February, selected students receive offers from the Raikes School along with notification of any Raikes School scholarship awards. Raikes School scholarship awards are typically 4-year renewable awards covering a portion of room and board which can be stacked on top of most other awards received from Nebraska.
+
+Students in the Raikes School live in the Kauffman Academic Residential Center, which consists of suite-style rooms, technology enabled classrooms, and faculty/staff offices on the first floor. This living arrangement offers the advantage of a community atmosphere within a large university setting.
+
+Students take classes with their cohort each semester in the Raikes School. The Raikes School's curriculum includes core business and computing concepts as well as data science, leadership and communication coursework. Approximately 60-65 credit hours are completed in the Raikes School, leaving an additional 60-65 credit hours for students to complete in their respective areas of interest. Students in the Raikes School pursue a variety of majors including: computer science, computer engineering, software engineering, electrical engineering, actuarial science, business management, economics, finance and mathematics.
+
+Students interested in learning more about the Jeffrey S. Raikes School of Computer Science and Management are encouraged to contact Theresa 
+Arneal
+, Assistant Director of Recruitment and Outreach, at tluensmann2@unl.edu or 402-472-9097, or visit 
+http://raikes.unl.edu
+.
+
+Plan for Required Courses
+
+Plan of Study Grid
+
+Year 1
+
+Fall
+Credit Hours
+
+RAIK 183H
+
+Honors: Computer Problem Solving Essentials
+
+4
+
+RAIK 163H
+
+Honors: Innovation Processes and Software Engineering Fundamentals
+
+3
+
+RAIK 10
+
+Raikes School Freshman Seminar
+
+0
+
+UHON 189H
+
+University Honors Seminar (
+University Honors Program Requirement
+)
+
+3
+
+UHON 101H
+
+Honors Community (
+University Honors Program Requirement
+)
+
+1
+
+MATH 106
+
+Calculus I (
+ACE 3
+)
+
+5
+
+ 
+Credit Hours
+16
+
+Spring
+
+RAIK 184H
+
+Honors: Software Development Essentials
+
+4
+
+RAIK 181H
+
+Honors: Foundations of Accounting
+
+4
+
+RAIK 182H
+
+Honors: Foundations of Economics (
+ACE 6
+)
+
+4
+
+RAIK 185H
+
+Honors: Foundations of Leadership I
+
+1
+
+MATH 107
+
+Calculus II
+
+4
+
+ 
+Credit Hours
+17
+
+Year 2
+
+Fall
+
+RAIK 283H
+
+Honors: Software Engineering III
+
+4
+
+RAIK 270H
+
+Statistics and Applications
+
+3
+
+RAIK 341H
+
+Honors: Marketing
+
+3
+
+CSCE 231
+
+Computer Systems Engineering
+
+4
+
+CSCE 251
+
+Unix Programming Environment
+
+1
+
+ 
+Credit Hours
+15
+
+Spring
+
+RAIK 284H
+
+Software Engineering IV (
+ACE 2
+)
+
+3
+
+RAIK 370H
+
+Honors: Data and Models II: Data Science Fundamentals (
+replaces 
+CSCE 320
+)
+
+3
+
+RAIK 381H
+
+Honors: Fundamentals of Finance
+
+3
+
+RAIK 186H
+
+Honors: Foundations of Leadership II
+
+1
+
+MATH 314
+
+Linear Algebra
+
+3
+
+ 
+Credit Hours
+13
+
+Year 3
+
+Fall
+
+UHON 99H
+
+Honors Experience (
+University Honors Program Requirement
+)
+
+0
+
+RAIK 401H
+
+Honors: RAIK Design Studio I
+
+3
+
+CSCE 322
+
+Programming Language Concepts
+
+3
+
+ACE 1
+
+2
+
+3
+
+ACE 5
+
+3
+
+Science (ACE 4)
+
+1
+
+4
+
+ 
+Credit Hours
+16
+
+Spring
+
+RAIK 402H
+
+Honors: RAIK Design Studio II (
+ACE 10
+)
+
+3
+
+RAIK 371H
+
+Honors: Data & Models III: Fundamentals of Management Science (
+replaces AI, Networking, Cybersecurity, and Robotics course
+)
+
+3
+
+RAIK 372H
+
+Honors: Business Law (
+ACE 8
+)
+
+3
+
+CSCE 423
+or 
+CSCE 428
+
+Design and Analysis of Algorithms
+or Automata, Computation, and Formal Languages
+
+3
+
+Science
+
+1
+
+4
+
+ 
+Credit Hours
+16
+
+Year 4
+
+Fall
+
+RAIK 403H
+or 
+RAIK 405H
+
+Honors: RAIK Design Studio III (
+Technical Elective
+)
+or Honors: RAIK Research Studio I
+
+3
+
+RAIK 40
+
+Professional and Life Skills
+
+0
+
+CSCE 351
+or 
+CSCE 451
+
+System Resource Management
+or Operating Systems Principles
+
+3
+
+CSCE 300 or 400 Level Technical Elective
+
+3
+
+3
+
+Breadth Course- Arts, Humanities, & Social Sciences
+
+2
+
+3
+
+ACE 7
+
+3
+
+ACE 9
+
+3
+
+ 
+Credit Hours
+18
+
+Spring
+
+RAIK 404H
+or 
+RAIK 406H
+
+Honors: RAIK Design Studio IV
+or Honors: RAIK Research Studio II
+
+3
+
+RAIK 476H
+
+Honors: Business Strategies
+
+3
+
+Breadth Course- Global Awareness/Human Diversity
+
+2
+
+3
+
+Science
+
+1
+
+4
+
+CSCE 400 Level Technical Elective
+
+3
+
+3
+
+ 
+Credit Hours
+16
+
+ 
+Total Credit Hours
+127
+
+ 
+
+
+1 
+
+Select courses from the "Science" requirement list on the 
+non-Raikes School major tab
+.
+
+2 
+
+See more information on the 
+non-Raikes School major tab
+.
+
+3 
+
+See “Technical Electives” requirement list on the 
+non-Raikes School major tab
+.
+
+Note: 
+A minimum of 120 credit hours is required for the degree but Raikes School students will complete more than the 120 credit hours required.
+
+Additional Requirements
+
+W
+orld Language: Students must complete the 2nd level in a single world language if they have not completed the 2nd level of a single world language in high school.
+
+Course Level Requirement: Thirty (30) credit hours must be in courses numbered at the 300 or 400 level. Of those 30 hours, 15 credit hours must be completed in residence at the University of Nebraska–Lincoln.
+
+This degree requires the completion of a minor and students must complete the Business Minor for Raikes School students.
+
+See more information on the 
+non-Raikes School major tab
+.
+
+ 
+
+Requirements for Minor Offered by Department
+
+Minor in Computer Science (Non-Raikes)
+
+Eighteen (18) hours of computer science courses as follows.
+
+ 
+
+Course List
+
+Code
+Title
+Credit Hours
+Select one of the following:
+
+1
+3
+
+CSCE 155A
+Computer Science I
+
+CSCE 155H
+Honors: Computer Science I
+
+CSCE 155E
+Computer Science I: Systems Engineering Focus
+
+CSCE 155T
+Computer Science I: Informatics Focus
+
+Select at least one of the following:
+3-4
+
+CSCE 156
+Computer Science II
+
+or 
+CSCE 156H
+Honors: Computer Science II
+
+CSCE 311
+Data Structures and Algorithms for Informatics
+
+CSCE 300- or 400-level course
+
+2
+3
+
+Additional CSCE courses
+
+2,3
+8-9
+
+Total Credit Hours
+18
+
+
+1 
+
+AP or transfer credit equating to CSCE 155 may also apply.
+               
+
+2 
+
+Excluding 
+CSCE 100
+, 
+CSCE 101L
+, 
+CSCE 120
+, 
+CSCE 191
+, 
+CSCE 220
+, 
+CSCE 291
+, 
+or 
+CSCE 391
+.  
+
+3 
+
+CSCE 101
+or
+
+ENGR 101
+
+may be used to satisfy the Additional CSCE course requirement if taken at UNL prior to taking 
+CSCE 155 
+(
+CSCE 155A
+, 
+CSCE 155E
+, 
+CSCE 155H
+, 
+CSCE 155N
+, or 
+CSCE 155T
+), 
+CSCE 156
+/
+CSCE 156H
+, 
+and 
+CSCE 311
+.
+
+Minor in Computer Science – Raikes School Students
+
+Eighteen (18) hours of computer science courses, including:
+
+ 
+
+Course List
+
+Code
+Title
+Credit Hours
+CSCE 183H
+/ 
+RAIK 183H
+Honors: Computer Problem Solving Essentials
+4
+
+CSCE 184H
+/ 
+RAIK 184H
+Honors: Software Development Essentials
+4
+
+SOFT 260H
+/ 
+RAIK 283H
+Honors: Software Engineering III
+4
+
+Additional CSCE courses (or RAIK courses cross-listed as CSCE, including 
+RAIK 284H
+) at the 200 level or above.
+
+2 3
+6
+
+Total Credit Hours
+18
+
+
+2 
+
+Except 
+CSCE 220
+, 
+CSCE 291
+, 
+CSCE 235
+, 
+CSCE 235H
+, 
+and 
+CSCE 391
+.
+
+3 
+
+ No more than 3 hours for RAIK Design Studio courses 
+RAIK 401H
+, 
+RAIK 402H
+, 
+RAIK 403H
+, 
+RAIK 404H
+.
+
+Grade Rules
+
+C- and D Grades
+
+A grade of C or above is required for all courses in the major and minor, excluding ancillary courses.
+
+Pass/No Pass
+
+Up to 3 hours of Pass/No Pass CSCE coursework may be counted toward the minor.
+
+Restriction
+
+Students minoring in computer science may not declare a minor in informatics or software development. The computer science minor is not available to students majoring in computer engineering or software engineering.
+
+Bachelor of Science in Computer Science with the Master of Science in Computer Science
+
+In an accelerated program, a student may count up to 12 credit hours of approved graduate courses toward both the current undergraduate degree and the later graduate degree. Students must apply for graduate admission and be accepted prior to enrollment. For more information, visit 
+https://graduate.unl.edu/academics/programs/accelerated-masters/
+.
+
+The following courses are approved for this program. Requirements are the same for students completing or not completing the Raikes version of the major.
+
+Course List
+
+Code
+Title
+Credit Hours
+No Specialization
+
+CSCE 811
+Data Modeling for Systems Development (replaces 
+CSCE 411
+)
+3
+
+CSCE 813
+Database Systems (replaces 
+CSCE 413
+)
+3
+
+CSCE 823
+Design and Analysis of Algorithms (replaces 
+CSCE 423
+)
+3
+
+CSCE 828
+Automata, Computation, and Formal Languages (replaces 
+CSCE 428
+)
+3
+
+CSCE 838
+Internet of Things (replaces 
+CSCE 438
+)
+3
+
+CSCE 840
+Numerical Analysis I (replaces 
+CSCE 440
+)
+3
+
+CSCE 845
+Eye Tracking in Usability and Software Engineering (replaces 
+CSCE 445
+)
+3
+
+CSCE 851
+Operating Systems Principles (replaces 
+CSCE 451
+)
+3
+
+CSCE 862
+Communication Networks (replaces 
+CSCE 462
+)
+3
+
+CSCE 863
+Data and Network Security (replaces 
+CSCE 463
+)
+3
+
+CSCE 867
+Testing, Verification and Analysis (replaces 
+CSCE 467
+)
+3
+
+CSCE 876
+Introduction to Artificial Intelligence (replaces 
+CSCE 476
+)
+3
+
+CSCE 877
+Cryptography and Security
+3
+
+CSCE 878
+Introduction to Machine Learning (replaces 
+CSCE 478
+)
+3
+
+CSCE 879
+Introduction to Deep Learning (replaces 
+CSCE 479
+)
+3
+
+Course List
+
+Code
+Title
+Credit Hours
+Specialization in Computer Engineering
+
+CSCE 811
+Data Modeling for Systems Development (replaces 
+CSCE 411
+)
+3
+
+CSCE 823
+Design and Analysis of Algorithms (replaces 
+CSCE 423
+)
+3
+
+CSCE 829
+Information Theory (replaces 
+CSCE 429
+)
+3
+
+CSCE 830
+Computer Architecture (replaces 
+CSCE 430
+)
+3
+
+CSCE 836
+Advanced Embedded Systems (replaces 
+CSCE 436
+)
+3
+
+CSCE 838
+Internet of Things (replaces 
+CSCE 438
+)
+3
+
+CSCE 839
+Robotics: Algorithms and Applications (replaces 
+CSCE 439
+)
+3
+
+CSCE 845
+Eye Tracking in Usability and Software Engineering (replaces 
+CSCE 445
+)
+3
+
+CSCE 851
+Operating Systems Principles (replaces 
+CSCE 451
+)
+3
+
+CSCE 862
+Communication Networks (replaces 
+CSCE 462
+)
+3
+
+CSCE 863
+Data and Network Security (replaces 
+CSCE 463
+)
+3
+
+CSCE 865
+Wireless Communication Networks (replaces 
+CSCE 465
+)
+3
+
+CSCE 877
+Cryptography and Security
+3
+
+CSCE 878
+Introduction to Machine Learning (replaces 
+CSCE 478
+)
+3
+
+CSCE 879
+Introduction to Deep Learning (replaces 
+CSCE 479
+)
+3
+
+Grading Requirements
+
+Grading rules as defined by the undergraduate degree/major apply. Please consult your academic advisor and/or the department graduate chair for grading policy as it relates to credit applying toward a graduate degree.
+
+CSCE
+100
+Introduction to Informatics
+Prerequisites: Placement in to 
+MATH 101
+or higher 
+This course does not count towards a major or minor in Computer Science or a major in Computer Engineering or a major in Software Engineering. 
+Description:
+
+Introduction to the use of data-centric and information technologies-and issues and challenges-in today's applications in sciences, engineering, the humanities, and the arts. Exposure to computational thinking and programming, statistical thinking and research design, data analysis and database techniques, and visualization and creative thinking.
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+101
+Fundamentals of Computer Science
+A course in the science of computation suitable for prospective CSCE majors and for non-CSCE majors who desire a deeper understanding of computers and the work of computer scientists. This course may be used to satisfy a technical elective for Computer Science and Computer Engineering majors if taken at UNL prior to CSCE 155, 
+CSCE 156
+, 
+CSCE 310
+and 
+CSCE 361
+, or for Software Engineering majors, if taken at UNL prior to 
+SOFT 160
+, 
+SOFT 161
+, 
+SOFT 260
+and 
+SOFT 261
+. 
+Description:
+
+Introduction to problem solving with computers. Problem analysis and specification, algorithm development, program design, and implementation in a high-level programming environment. Hardware, software, software engineering, networks, and impacts of computing on society.
+This course is a prerequisite for: 
+CIVE 201
+; 
+CIVE 202
+; 
+CSCE 101L
+
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Course and Laboratory Fee:
+$35
+
+ACE Outcomes:
+
+ACE 3 Math/Stat/Reasoning 
+
+Credit Hours:
+3
+ACE:
+ACE 3 Math/Stat/Reasoning 
+
+CSCE
+101L
+Fundamentals of Computing Laboratory
+Prerequisites: 
+CSCE 101
+or parallel. 
+This course does not count towards a major or minor in Computer Science or a major in Computer Engineering or a major in Software Engineering. 
+Description:
+
+A variety of computer oriented exercises using many software tools is presented which supplement and are coordinated with the topics taught in 
+CSCE 101
+. Students are exposed to programming, operating systems, simulation software, spreadsheets, database software, the Internet, etc. Applications software introduced in the context of tools to explore the computer science topics and as alternatives to traditional programming languages. Emphasis on learning by experiment, with a goal of developing problem solving skills. A major component is the study of a programming language-the choice of which may vary by course section.
+Course details
+
+Credit Hours:
+1
+
+Max credits per semester:
+1 
+
+Max credits per degree:
+1 
+
+Grading Option:
+Graded with Option 
+
+Course and Laboratory Fee:
+$10
+
+Credit Hours:
+1
+ACE:
+
+CSCE
+120
+Learning to Code
+Prerequisites: Placement in to 
+MATH 101
+or higher 
+This course does not count towards a major or minor in Computer Science or a major in Computer Engineering or a major in Software Engineering. First course in a sequence for the minor in Software Development. 
+Description:
+
+Introduction to coding in the context of current web development technologies (JavaScript, HTML, CSS). Basic coding skills and an introduction to computing with an emphasis on processing data: data formatting and structure, data manipulation, data presentation and the basics of an interactive program.
+This course is a prerequisite for: 
+CSCE 220
+
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+155A
+Computer Science I
+Prerequisites: 
+MATH 102
+or a Math Placement Test score for 
+MATH 103
+or higher. Credit toward the degree may be earned in only one of: CSCE 155, 
+CSCE 155A
+, 
+CSCE 155E
+/
+ECEN 155E
+, 
+CSCE 155H
+, 
+CSCE 155N
+, or 
+CSCE 155T
+. 
+Recommended for students majoring in computer science or computer engineering. 
+Description:
+
+Introduction to problem solving with computers. Topics include problem solving methods, software development principles, computer programming, and computing in society.
+This course is a prerequisite for: 
+CIVE 201
+; 
+CSCE 156
+, 
+ECEN 156
+; 
+CSCE 156H
+; 
+CSCE 235
+; 
+CSCE 235H
+; 
+CSCE 311
+; 
+CSCE 320
+; 
+CSCE 352
+; 
+CSCE 802
+; 
+ECEN 106
+; 
+ECEN 123
+; 
+ECEN 224
+; 
+MECH 300
+; 
+ROBO 303
+
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Course and Laboratory Fee:
+$35
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+155E
+Computer Science I: Systems Engineering Focus
+Crosslisted with 
+ECEN 155E
+Prerequisites: 
+MATH 102
+or a Math Placement Test score for 
+MATH 103
+or higher. Credit toward the degree may be earned in only one of:CSCE 155, 
+CSCE 155A
+, 
+CSCE 155E
+/
+ECEN 155E
+, 
+CSCE 155H
+, 
+CSCE 155N
+, or 
+CSCE 155T
+. 
+Recommended for students interested in systems engineering, such as operating systems, mobile computing, and embedded devices. 
+Description:
+
+Introduction to problem solving with computers. Topics include problem solving methods, software development principles, computer programming, and computing in society
+This course is a prerequisite for: 
+CIVE 201
+; 
+CSCE 156
+, 
+ECEN 156
+; 
+CSCE 156H
+; 
+CSCE 235
+; 
+CSCE 235H
+; 
+CSCE 311
+; 
+CSCE 320
+; 
+CSCE 336
+; 
+CSCE 352
+; 
+CSCE 802
+; 
+ECEN 106
+; 
+ECEN 123
+; 
+ECEN 220
+; 
+ECEN 224
+; 
+MECH 300
+; 
+ROBO 303
+
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Course and Laboratory Fee:
+$10
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+155H
+Honors: Computer Science I
+Prerequisites: Good standing in UNL Honors Program; 
+MATH 102
+or a Math Placement Test score for 
+MATH 103
+or higher. Credit toward the degree may be earned in only one of:CSCE 155, 
+CSCE 155A
+, 
+CSCE 155E
+/
+ECEN 155E
+, 
+CSCE 155H
+, 
+CSCE 155N
+, or 
+CSCE 155T
+. 
+Covers the same topics as 
+CSCE 155A
+, but in greater depth. 
+Description:
+
+Introduction to problem solving with computers. Topics include problem solving methods, software development principles, computer programming, and computing in society.
+This course is a prerequisite for: 
+CIVE 201
+; 
+CSCE 156
+, 
+ECEN 156
+; 
+CSCE 156H
+; 
+CSCE 235
+; 
+CSCE 235H
+; 
+CSCE 311
+; 
+CSCE 320
+; 
+CSCE 352
+; 
+CSCE 802
+; 
+ECEN 106
+; 
+ECEN 224
+; 
+MECH 300
+; 
+ROBO 303
+
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Course and Laboratory Fee:
+$35
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+155N
+Computer Science I: Engineering and Science Focus
+Prerequisites: 
+MATH 102
+or a Math Placement Test score for 
+MATH 103
+or higher. Credit toward the degree may be earned in only one of:CSCE 155, 
+CSCE 155A
+, 
+CSCE 155E
+/
+ECEN 155E
+, 
+CSCE 155H
+, 
+CSCE 155N
+, or 
+CSCE 155T
+. 
+Recommended for students interested in numerical and graphical applications in engineering and science, such as applied physics, working with time-sequence data, and matrix applications. 
+Description:
+
+Introduction to problem solving with computers. Topics include problem solving methods, software development principles, computer programming, and computing in society.
+This course is a prerequisite for: 
+BSEN 311
+; 
+CHME 312
+; 
+CIVE 201
+; 
+CSCE 156
+, 
+ECEN 156
+; 
+CSCE 156H
+; 
+CSCE 235
+; 
+CSCE 235H
+; 
+CSCE 311
+; 
+CSCE 320
+; 
+CSCE 802
+; 
+ECEN 106
+; 
+ECEN 224
+; 
+MECH 300
+; 
+MECH 318
+; 
+MECH 330
+; 
+MECH 350
+; 
+MECH 381
+; 
+ROBO 303
+
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Course and Laboratory Fee:
+$35
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+155T
+Computer Science I: Informatics Focus
+Prerequisites: 
+MATH 102
+or a Math Placement Test score for 
+MATH 103
+or higher. Credit toward the degree may be earned in only one of:CSCE 155, 
+CSCE 155A
+, 
+CSCE 155E
+/
+ECEN 155E
+, 
+CSCE 155H
+, 
+CSCE 155N
+, or 
+CSCE 155T
+. 
+Recommended for students interested in data and information processing, such as library and database applications, online commerce, and bioinformatics. 
+Description:
+
+Introduction to computers and problem-solving with computers. Topics include problem solving methods, software development principles, computer programming, and computing in society.
+This course is a prerequisite for: 
+CSCE 156
+, 
+ECEN 156
+; 
+CSCE 156H
+; 
+CSCE 235
+; 
+CSCE 235H
+; 
+CSCE 311
+; 
+CSCE 320
+; 
+CSCE 352
+; 
+CSCE 802
+; 
+ECEN 106
+; 
+ECEN 224
+; 
+MECH 300
+; 
+ROBO 303
+
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+156
+Computer Science II
+Crosslisted with 
+ECEN 156
+Prerequisites: A grade of "P" or "C" or better in 
+CSCE 155A
+, 
+CSCE 155E
+, 
+CSCE 155H
+, 
+CSCE 155N
+, or 
+CSCE 155T
+; coreq: 
+MATH 106
+. 
+Laboratories supplement the lecture material and give an opportunity to practice concepts. 
+Description:
+
+Data structures, including linked lists, stacks, queues, and trees; algorithms, including searching, sorting, and recursion; programming language topics, including object-oriented programming; pointers, references, and memory management; design and implementation of a multilayer application with SQL database.
+This course is a prerequisite for: 
+CSCE 235
+; 
+CSCE 310
+; 
+CSCE 310H
+; 
+CSCE 322
+; 
+CSCE 322H
+; 
+CSCE 378
+; 
+CSCE 378H
+; 
+CSCE 453H
+, 
+RAIK 453H
+; 
+SOFT 162
+
+Course details
+
+Credit Hours:
+4
+
+Max credits per semester:
+4 
+
+Max credits per degree:
+4 
+
+Grading Option:
+Graded with Option 
+
+Offered:
+FALL/SPR
+
+Course and Laboratory Fee:
+$35
+
+Credit Hours:
+4
+ACE:
+
+CSCE
+156H
+Honors: Computer Science II
+Prerequisites: Good standing UNL Honors Program. A grade of "P" or "C" or better in 
+CSCE 155A
+, 
+CSCE 155E
+, 
+CSCE 155H
+, 
+CSCE 155N
+, or 
+CSCE 155T
+; Coreq: 
+MATH 106
+. Credit toward the degree cannot be earned in both 
+CSCE 156
+and 
+CSCE 156H
+. 
+Covers the same topics as 
+CSCE 156
+, but in greater depth. Laboratories supplement the lecture material and give an opportunity to practice concepts. 
+Description:
+
+Data structures, including linked lists, stacks, queues, and trees; algorithms, including searching, sorting, and recursion; programming language topics, including object-oriented programming; pointers, references, and memory management; design and implementation of a multilayer application with SQL database.
+This course is a prerequisite for: 
+CSCE 310
+; 
+CSCE 310H
+; 
+CSCE 322
+; 
+CSCE 322H
+; 
+CSCE 378
+; 
+CSCE 378H
+; 
+CSCE 453H
+, 
+RAIK 453H
+; 
+SOFT 162
+
+Course details
+
+Credit Hours:
+4
+
+Max credits per semester:
+4 
+
+Max credits per degree:
+4 
+
+Grading Option:
+Graded 
+
+Course and Laboratory Fee:
+$35
+
+Credit Hours:
+4
+ACE:
+
+CSCE
+163H
+Honors: Innovation Processes and Software Engineering Fundamentals
+Crosslisted with 
+RAIK 163H
+Prerequisites: Good standing in the University Honors Program; admission to the Jeffrey S. Raikes School of Computer Science and Management. 
+Description:
+
+Introduction to innovation processes for interdisciplinary and team-oriented problem solving of software engineering, business development, and industrial design problems.
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded 
+
+Offered:
+FALL
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+164
+Introduction to Computer Engineering
+Crosslisted with 
+ECEN 164
+Project-based introduction to the computer engineering field. 
+Description:
+
+Introduction to basic concepts and skills needed in computer engineering. Practical application of basic computing concepts through an introduction to programming an embedded system.
+This course is a prerequisite for: 
+ECEN 220
+; 
+ECEN 370
+, 
+CSCE 335
+
+Course details
+
+Credit Hours:
+2
+
+Max credits per semester:
+2 
+
+Max credits per degree:
+2 
+
+Grading Option:
+Graded with Option 
+
+Offered:
+SPRING
+
+Credit Hours:
+2
+ACE:
+
+CSCE
+183H
+Honors: Computer Problem Solving Essentials
+Crosslisted with 
+RAIK 183H
+Prerequisites: Good standing in the University Honors Program; admission to the Jeffrey S. Raikes School of Computer Science and Management. 
+Description:
+
+Introduction to problem solving with computers. Problem analysis and specification, algorithm development, program design, and implementation. JAVA in a Windows platform.
+This course is a prerequisite for: 
+CSCE 235
+; 
+CSCE 235H
+; 
+CSCE 352
+; 
+RAIK 184H
+, 
+CSCE 184H
+; 
+SCMA 335
+
+Course details
+
+Credit Hours:
+4
+
+Max credits per semester:
+4 
+
+Max credits per degree:
+4 
+
+Grading Option:
+Graded 
+
+Credit Hours:
+4
+ACE:
+
+CSCE
+184H
+Honors: Software Development Essentials
+Crosslisted with 
+RAIK 184H
+Prerequisites: Good standing in the University Honors Program; admission to the Jeffrey S. Raikes School of Computer Science and Management; and CSCE/
+RAIK 183H
+. 
+Description:
+
+Problem solving with computers. Problem analysis and specification, data structures, relational databases, algorithm development, and program design and implementation. Discrete mathematics topics, propositional and predicate logic, sets, relations, functions, and proof techniques. Software Development Principles.
+This course is a prerequisite for: 
+BSAD 372H
+, 
+RAIK 372H
+; 
+CSCE 230
+, 
+ECEN 230
+; 
+CSCE 231
+; 
+CSCE 322
+; 
+CSCE 322H
+; 
+CSCE 377
+; 
+CSCE 378
+; 
+CSCE 378H
+; 
+CSCE 453H
+, 
+RAIK 453H
+; 
+SOFT 260H
+, 
+RAIK 283H
+
+Course details
+
+Credit Hours:
+4
+
+Max credits per semester:
+4 
+
+Max credits per degree:
+4 
+
+Grading Option:
+Graded 
+
+Credit Hours:
+4
+ACE:
+
+CSCE
+191
+Special Topics in Computer Science
+Prerequisites: Permission. 
+Will not count towards a major or minor in computer science and computer engineering. Topics will vary. 
+Description:
+
+Aspects of computers and computing at the freshman level for non-computer science and computer engineering majors and/or minors.
+Course details
+
+Credit Hours:
+1-3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+6 
+
+Grading Option:
+Graded with Option 
+
+Course and Laboratory Fee:
+$10
+
+Credit Hours:
+1-3
+ACE:
+
+CSCE
+192
+Special Topics in Computer Science
+Prerequisites: Permission. 
+Description:
+
+Aspects of computers and computing for computer science and computer engineering majors and minors. Topics vary.
+Course details
+
+Credit Hours:
+1-3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+6 
+
+Grading Option:
+Graded with Option 
+
+Credit Hours:
+1-3
+ACE:
+
+CSCE
+194
+Independent Study in Computing
+Prerequisites: Freshmen standing; permission of the instructor. 
+Description:
+
+Independent study of computer science topics performed under the guidance of a member of the faculty in the Department of Computer Science and Engineering.
+Course details
+
+Credit Hours:
+1-3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Credit Hours:
+1-3
+ACE:
+
+CSCE
+220
+Software Development for Smart-Mobile Systems
+Prerequisites: 
+CSCE 120
+
+This course does not count towards a major or minor in Computer Science or a major in Computer Engineering or a major in Software Engineering. Second course in a sequence for the minor in Software Development. 
+Description:
+
+Practical experience on building larger scale applications and familiarity with the tools, environments (e.g., Android or IoS), and requirements to develop software for current smart-mobile devices such as phones and tablets.
+This course is a prerequisite for: 
+CSCE 453H
+, 
+RAIK 453H
+
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+230
+Computer Organization
+Crosslisted with 
+ECEN 230
+Prerequisites: A grade of 'P' or 'C' or better in 
+CSCE 235
+, 
+CSCE 235H
+, or 
+RAIK 184H
+. 
+Laboratories supplement the lecture material and give an opportunity to practice concepts. 
+Description:
+
+Introduction to organization and structure of computer systems. Boolean logic, digital arithmetic, processor organization, machine language programming, input/output, memory organization, system support software, communication, and ethics.
+This course is a prerequisite for: 
+CSCE 336
+; 
+CSCE 351
+, 
+ECEN 351
+; 
+CSCE 362
+; 
+ECEN 370
+, 
+CSCE 335
+
+Course details
+
+Credit Hours:
+4
+
+Max credits per semester:
+4 
+
+Max credits per degree:
+4 
+
+Grading Option:
+Graded with Option 
+
+Offered:
+FALL
+
+Course and Laboratory Fee:
+$20
+
+Credit Hours:
+4
+ACE:
+
+CSCE
+231
+Computer Systems Engineering
+Prerequisites: Grade of "P" or "C" or better in 
+CSCE 235
+, 
+CSCE 235H
+or 
+RAIK 184H
+. 
+Description:
+
+Introduction to organization, structure, and applications of computer systems. Boolean Logic, Digital Arithmetic, Processor Organization, C Programming, Machine Language Programming, Input/Output, Memory Organization and Management, Building Embedded System Application.
+This course is a prerequisite for: 
+CSCE 336
+; 
+CSCE 351
+, 
+ECEN 351
+; 
+CSCE 362
+
+Course details
+
+Credit Hours:
+4
+
+Max credits per semester:
+4 
+
+Max credits per degree:
+4 
+
+Grading Option:
+Graded with Option 
+
+Course and Laboratory Fee:
+$20
+
+Credit Hours:
+4
+ACE:
+
+CSCE
+235
+Introduction to Discrete Structures
+Prerequisites: A grade of 'P' or 'C' or better in 
+CSCE 155A
+, 
+CSCE 155E
+, 
+CSCE 155H
+, 
+CSCE 155N
+, 
+CSCE 155T
+, 
+SOFT 160
+, 
+SOFT 160H
+or 
+RAIK 183H
+; and 
+MATH 106
+. 
+Theoretical concepts with programming assignments. 
+Description:
+
+Survey of elementary discrete mathematics. Elementary graph and tree theories, set theory, relations and functions, propositional and predicate logic, methods of proof, induction, recurrence relations, principles of counting, elementary combinatorics, and asymptotic notations.
+This course is a prerequisite for: 
+CSCE 230
+, 
+ECEN 230
+; 
+CSCE 231
+; 
+CSCE 310
+; 
+CSCE 310H
+; 
+CSCE 362
+; 
+CSCE 377
+; 
+SOFT 260
+
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Course and Laboratory Fee:
+$20
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+235H
+Honors: Introduction to Discrete Structures
+Prerequisites: A grade of 'P' or 'C' or better in 
+CSCE 155A
+, 
+CSCE 155E
+, 
+CSCE 155H
+, 
+CSCE 155N
+, 
+CSCE 155T
+, 
+SOFT 160
+, 
+SOFT 160H
+or 
+RAIK 183H
+; and 
+MATH 106
+. Credit toward the degree cannot be earned in both 
+CSCE 235
+and 
+CSCE 235H
+. 
+Theoretical concepts with programming assignments. Covers the same topics as 
+CSCE 235
+, but in greater depth. 
+Description:
+
+Survey of elementary discrete mathematics. Elementary graph and tree theories, set theory, relations and functions, propositional and predicate logic, methods of proof, induction, recurrence relations, principles of counting, elementary combinatorics, and asymptotic notations.
+This course is a prerequisite for: 
+CSCE 230
+, 
+ECEN 230
+; 
+CSCE 231
+; 
+CSCE 310
+; 
+CSCE 310H
+; 
+CSCE 362
+; 
+CSCE 377
+; 
+SOFT 260
+
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Course and Laboratory Fee:
+$20
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+251
+Unix Programming Environment
+Crosslisted with 
+ECEN 251
+Familiarity with at least one high-level programming language. 
+Description:
+
+Introduction to the Unix operating system. Unix file system. Unix tools and utilities. Shell programming.
+Course details
+
+Credit Hours:
+1
+
+Max credits per semester:
+1 
+
+Max credits per degree:
+1 
+
+Grading Option:
+Graded with Option 
+
+Offered:
+FALL
+
+Course and Laboratory Fee:
+$25
+
+Credit Hours:
+1
+ACE:
+
+CSCE
+291
+Special Topics in Computer Science
+Prerequisites: Permission. 
+Will not count towards a major or minor in computer science and computer engineering. Topics vary. 
+Description:
+
+Aspects of computers and computing for non-computer science and computer engineering majors and/or minors.
+Course details
+
+Credit Hours:
+1-3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+6 
+
+Grading Option:
+Graded with Option 
+
+Credit Hours:
+1-3
+ACE:
+
+CSCE
+292
+Special Topics in Computer Science
+Prerequisites: Permission. 
+Description:
+
+Aspects of computers and computing for computer science and computer engineering majors and minors. Topics vary.
+Course details
+
+Credit Hours:
+1-3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+6 
+
+Grading Option:
+Graded with Option 
+
+Credit Hours:
+1-3
+ACE:
+
+CSCE
+294
+Independent Study in Computing
+Prerequisites: Sophomore standing; permission of the instructor. 
+Description:
+
+Independent study of computer science topics performed under the guidance of a member of the faculty in the Department of Computer Science and Engineering.
+Course details
+
+Credit Hours:
+1-3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Credit Hours:
+1-3
+ACE:
+
+CSCE
+310
+Data Structures and Algorithms
+Prerequisites: Grades of "Pass" or "C" or better in 
+CSCE 156
+/
+CSCE 156H
+or 
+SOFT 161
+and 
+CSCE 235
+/
+CSCE 235H
+. Credit toward the degree may be earned in only one of 
+CSCE 310
+or 
+CSCE 311
+
+Theoretical concepts with programming assignments. 
+Description:
+
+A review of algorithm analysis, asymptotic notation, and solving recurrence relations. Advanced data structures and their associated algorithms, heaps, priority queues, hash tables, trees, binary search trees, and graphs. Algorithmic techniques, divide and conquer, transform and conquer, space-time trade-offs, greedy algorithms, dynamic programming, randomization, and distributed algorithms. Introduction to computability and NP-completeness.
+This course is a prerequisite for: 
+CSCE 351
+, 
+ECEN 351
+; 
+CSCE 360
+; 
+CSCE 361
+, 
+CSCE 361H
+; 
+CSCE 493
+
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Course and Laboratory Fee:
+$20
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+310H
+Honors: Data Structures and Algorithms
+Prerequisites: Good Standing in UNL Honors Program or by invitation; grades of 'P' or 'C' or better in 
+CSCE 156
+/
+CSCE 156H
+or 
+SOFT 161
+and 
+CSCE 235
+/
+CSCE 235H
+. Credit toward the degree cannot be earned in 
+CSCE 310
+and 
+CSCE 310H
+. 
+Description:
+
+CSCE 310H
+covers the same topics as 
+CSCE 310
+, but in greater depth. For course description, see 
+CSCE 310
+.
+This course is a prerequisite for: 
+CSCE 351
+, 
+ECEN 351
+; 
+CSCE 360
+; 
+CSCE 361
+, 
+CSCE 361H
+; 
+CSCE 493
+
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded 
+
+Course and Laboratory Fee:
+$20
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+311
+Data Structures and Algorithms for Informatics
+Prerequisites: Grade of "Pass" or "C" or better in 
+CSCE 155A
+, 
+CSCE 155E
+, 
+CSCE 155H
+, 
+CSCE 155N
+, 
+CSCE 155T
+, 
+CSCE 320
+, or 
+SOFT 160
+. Credit toward the degree may be earned in only one of 
+CSCE 310
+or 
+CSCE 311
+
+CSE majors must take 
+CSCE 310
+. 
+Description:
+
+An introduction to algorithms and data structures for informatics. Foundational coverage of algorithms includes both problems (such as indexing, searching, sorting, and pattern matching) and methods (such as greedy, divide-and-conquer, and dynamic programming). Foundational coverage of data structures includes lists, tables, relational databases, regular expressions, trees, graphs, and multidimensional arrays. The topics will be studied in the context of informatics applications.
+This course is a prerequisite for: 
+CSCE 322
+; 
+CSCE 322H
+; 
+CSCE 351
+, 
+ECEN 351
+; 
+CSCE 360
+; 
+CSCE 361
+, 
+CSCE 361H
+; 
+CSCE 377
+; 
+CSCE 378
+; 
+CSCE 378H
+; 
+CSCE 386
+; 
+CSCE 453H
+, 
+RAIK 453H
+; 
+CSCE 484
+; 
+CSCE 493
+; 
+CSCE 493A
+
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+320
+Data Analysis
+Prerequisites: A grade of "P" or "C" or better in 
+CSCE 155A
+, 
+CSCE 155E
+, 
+CSCE 155H
+, 
+CSCE 155N
+, or 
+CSCE 155T
+. 
+Description:
+
+Practical experience in modeling and analysis of large datasets through data mining and machine learning techniques. Use of models to promote efficient and effective data processing and analysis, including artificial intelligence-based applications.
+This course is a prerequisite for: 
+CSCE 311
+; 
+CSCE 493
+
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Offered:
+FALL
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+322
+Programming Language Concepts
+Prerequisites: A grade of "P" or "C" or better in 
+CSCE 156
+, 
+CSCE 156H
+, 
+CSCE 311
+, 
+SOFT 161
+, 
+SOFT 161H
+, or 
+RAIK 184H
+. 
+Description:
+
+List-processing, string-processing, and other types of high-level programming languages. Fundamental concepts of data types, control structures, operations, and programming environments of various programming languages. Analysis, formal specification, and comparison of language features.
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Course and Laboratory Fee:
+$40
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+322H
+Honors: Programming Language Concepts
+Prerequisites: Good Standing in UNL Honors Program or by invitation; A grade of "P" or "C" or better in 
+CSCE 156
+, 
+CSCE 156H
+, 
+CSCE 311
+, 
+SOFT 161
+, 
+SOFT 161H
+, or 
+RAIK 184H
+. Credit toward the degree cannot be earned in 
+CSCE 322
+and 
+CSCE 322H
+. 
+Description:
+
+List-processing, string-processing, and other types of high-level programming languages. Fundamental concepts of data types, control structures, operations, and programming environments of various programming languages. Analysis, formal specification, and comparison of language features.
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Offered:
+FALL/SPR
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+335
+Digital Logic Design
+Crosslisted with 
+ECEN 370
+Prerequisites: 
+ECEN 103
+or 
+CSCE 230
+
+Description:
+
+Combinational and sequential logic circuits. MSI chips, programmable logic devices (PAL, ROM, PLA) used to design combinational and sequential circuits. CAD tools. LSI and PLD components and their use. Hardware design experience.
+This course is a prerequisite for: 
+ECEN 307
+; 
+ECEN 327
+; 
+ECEN 333
+; 
+ECEN 481
+; 
+ECEN 483
+
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded 
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+336
+Embedded Systems
+Prerequisites: A grade of "P" or "C" or better in 
+CSCE 155E
+or 
+CSCE 230
+or 
+CSCE 231
+. 
+Description:
+
+Introduction to designing, interfacing, configuring, and programming embedded systems. Configure simple embedded microprocessor systems, control peripherals, write device drivers in a high-level language, set up embedded and real-time operating systems, and develop applications for embedded systems.
+This course is a prerequisite for: 
+CSCE 488
+; 
+CSCE 488H
+
+Course details
+
+Credit Hours:
+4
+
+Max credits per semester:
+4 
+
+Max credits per degree:
+4 
+
+Grading Option:
+Graded with Option 
+
+Offered:
+SPRING
+
+Course and Laboratory Fee:
+$40
+
+Credit Hours:
+4
+ACE:
+
+CSCE
+351
+System Resource Management
+Crosslisted with 
+ECEN 351
+Prerequisites: A grade of "P" or "C" or better in 
+CSCE 230
+or 
+CSCE 231
+and 
+CSCE 310
+, 
+CSCE 310H
+, 
+CSCE 311
+, 
+SOFT 260
+, 
+SOFT 260H
+or 
+RAIK 283H
+. 
+Description:
+
+An introduction to management of computing resources, including CPUs, shared memory, I/O devices, address spaces, and threads of execution, with a focus on implementation.
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Offered:
+FALL
+
+Course and Laboratory Fee:
+$40
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+352
+Exploring Virtual Reality
+Prerequisites: 
+CSCE 155A
+/
+CSCE 155E
+/
+CSCE 155T
+/
+CSCE 155H
+, 
+SOFT 160
+, 
+RAIK 183H
+, or equivalent. 
+Requires familiarity with a high-level programming language . 
+Description:
+
+Introduction to designing, developing and producing virtual reality and immersive experiences. Work in interdisciplinary teams to produce a virtual reality/immersive project, game or storytelling experience.
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+360
+Software Security in Practice
+Prerequisites: A grade of "P" or "C" or higher in 
+CSCE 310
+, 
+CSCE 310H
+, 
+CSCE 311
+, 
+SOFT 260
+, 
+SOFT 260H
+, or 
+RAIK 283H
+
+Description:
+
+Introduction to web application security risks and associated mitigation strategies, along with cloud-based resource management, and security basics on cloud application hosting.
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+361
+Software Engineering
+Crosslisted with 
+CSCE 361H
+Prerequisites: A grade of "P" or "C" or better in 
+CSCE 310
+, 
+CSCE 310H
+, 
+CSCE 311
+, 
+SOFT 260
+, 
+SOFT 260H
+or 
+RAIK 283H
+. 
+Requires participation in a group design and implementation of a software project. 
+Description:
+
+Techniques used in the disciplined development of large software projects. Software requirements analysis and specifications, program design, coding and integration testing, and software maintenance. Software estimation techniques, design tools, and complexity metrics.
+This course is a prerequisite for: 
+CSCE 461
+, 
+CSCE 861
+, 
+SOFT 461
+; 
+CSCE 486
+; 
+CSCE 486H
+; 
+CSCE 488
+; 
+CSCE 488H
+
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Course and Laboratory Fee:
+$20
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+361H
+Software Engineering
+Crosslisted with 
+CSCE 361
+Prerequisites: Good Standing in UNL Honors Program or by invitation; A grade of "P" or "C" or better in 
+CSCE 310
+, 
+CSCE 310H
+, 
+CSCE 311
+, 
+SOFT 260
+, 
+SOFT 260H
+or 
+RAIK 283H
+. 
+Requires participation in a group design and implementation of a software project. 
+Description:
+
+Techniques used in the disciplined development of large software projects. Software requirements analysis and specifications, program design, coding and integration testing, and software maintenance. Software estimation techniques, design tools, and complexity metrics.
+This course is a prerequisite for: 
+CSCE 461
+, 
+CSCE 861
+, 
+SOFT 461
+; 
+CSCE 486
+; 
+CSCE 486H
+; 
+CSCE 488
+; 
+CSCE 488H
+
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Course and Laboratory Fee:
+$20
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+362
+Fundamentals of Communication Systems
+Prerequisites: A grade of "P" or "C" or better in 
+CSCE 230
+, 
+CSCE 231
+or 
+CSCE 235
+. 
+Description:
+
+Covers fundamentals of digital communication systems, in particular, various source and channel coding techniques and channel properties, and touches upon concepts from information theory that are used to determine and quantify transmission of information through a channel. Includes a comparison between analog and digital modulation techniques, with a special focus on the latter (e.g., PSK (BPSK, QPSK), PAM, QAM, FSK, etc.). Covers constellation mapping and detection techniques.
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Offered:
+FALL/SPR
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+370H
+Honors: Data and Models II: Data Science Fundamentals
+Crosslisted with 
+RAIK 370H
+Prerequisites: Good standing in the University Honors Program or by invitation; admission to the Jeffrey S.Raikes School of Computer Science and Management; and 
+RAIK 270H
+
+Description:
+
+Introduction to approaches using data for prediction and learning. Exploration of data for linear and nonlinear data modeling, machine learning, and supportive methods from statistics and numerical methods.
+This course is a prerequisite for: 
+BSAD 371H
+, 
+RAIK 371H
+
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Offered:
+FALL/SPR
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+377
+Fundamentals of Cybersecurity
+Prerequisites: A grade of "P" or "C" or better in 
+CSCE 235
+or 
+CSCE 311
+or 
+RAIK 184H
+. 
+Description:
+
+Introduction to security concepts, fundamental security properties, basic cryptographic building blocks, and their application to build secure protocols and systems.
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Offered:
+FALL/SPR
+
+Course and Laboratory Fee:
+$35
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+378
+Human-Computer Interaction
+Prerequisites: A grade of "P" or "C" or better in 
+CSCE 156
+, 
+CSCE 156H
+, 
+SOFT 161
+, 
+SOFT 161H
+, 
+RAIK 184H
+or 
+CSCE 311
+. 
+STAT 380
+or 
+ECEN 305
+recommended. Meeting ACE 1 and ACE 2 requirements prior to taking this course recommended. 
+Description:
+
+Knowledge and techniques useful in the design of computing systems for human use. Includes models of HCI, human information processing characteristics important in HCI, computer system features, such as input and output devices, dialogue techniques, and information presentation, task analysis, prototyping and the iterative design cycle, user interface implementation, interface evaluation.
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Course and Laboratory Fee:
+$20
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+378H
+Honors: Human-Computer Interaction
+Prerequisites: Good standing in the University Honors Program; A grade of "P" or "C" or better in 
+CSCE 156
+, 
+CSCE 156H
+, 
+SOFT 161
+, 
+SOFT 161H
+, 
+RAIK 184H
+or 
+CSCE 311
+. Credit toward the degree cannot be earned in 
+CSCE 378
+and 
+CSCE 378H
+. 
+STAT 380
+/
+RAIK 270H
+or 
+ECEN 305
+recommended. Meeting ACE 1 and ACE 2 requirements prior to taking this course recommended. 
+Description:
+
+Knowledge and techniques useful in the design of computing systems for human use. Includes models of HCI, human information processing characteristics important in HCI, computer system features, such as input and output devices, dialogue techniques, and information presentation, task analysis, prototyping and the iterative design cycle, user interface implementation, interface evaluation.
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+386
+Practice and Professional Development: Design and Implementation
+Prerequisites: Grade of "Pass" or "C" in 
+CSCE 311
+. 
+Description:
+
+Studies in data science practice and professional development. Data science topics include data-centric and model-driven approaches; information and knowledge structures, organization, and access; searching and mining; and visualization. Professional development involves instruction in career development, entrepreneurship, professional ethics, and professional communications.
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Offered:
+FALL
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+391
+Special Topics in Computer Science
+Prerequisites: Permission. 
+Description:
+
+Aspects of computers and computing for non-computer science and computer engineering majors and/or minors. Topics vary.
+Course details
+
+Credit Hours:
+1-3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+6 
+
+Grading Option:
+Graded with Option 
+
+Credit Hours:
+1-3
+ACE:
+
+CSCE
+392
+Special Topics in Computer Science
+Prerequisites: Permission. 
+Description:
+
+Aspects of computers and computing for computer science and computer engineering majors and minors. Topics vary.
+Course details
+
+Credit Hours:
+1-3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+6 
+
+Grading Option:
+Graded with Option 
+
+Credit Hours:
+1-3
+ACE:
+
+CSCE
+394
+Independent Study in Computing
+Prerequisites: Junior standing; permission of the instructor. 
+Description:
+
+Independent study of computer science topics performed under the guidance of a member of the faculty in the Department of Computer Science and Engineering.
+Course details
+
+Credit Hours:
+1-3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Credit Hours:
+1-3
+ACE:
+
+CSCE
+399
+Undergraduate Thesis
+Prerequisites: Permission. 
+Description:
+
+Independent practice and research leading to a thesis.
+Course details
+
+Credit Hours:
+1-3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+6 
+
+Grading Option:
+Graded 
+
+Credit Hours:
+1-3
+ACE:
+
+CSCE
+399H
+Honors Undergraduate Thesis
+Prerequisites: Permission. Credit toward the degree cannot be earned in both 
+CSCE 399
+and 
+CSCE 399H
+. 
+Description:
+
+Independent practice and research leading to a thesis.
+Course details
+
+Credit Hours:
+1-3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+6 
+
+Grading Option:
+Graded 
+
+Credit Hours:
+1-3
+ACE:
+
+CSCE
+401H
+Honors: RAIK Design Studio I
+Crosslisted with 
+RAIK 401H
+, 
+BSAD 401H
+, 
+SOFT 401H
+Prerequisites: Good standing in the University Honors Program or by invitation; admission to the Jeffrey S. Raikes School of Computer Science and Management; 
+RAIK 284H
+/
+SOFT 261H
+or equivalent. 
+First semester in the Jeffrey S. Raikes School of Computer Science and Management design studio 
+Description:
+
+Application of Raikes School core content in a team oriented, project management setting. Complete projects in consultation with private and public sector clients.
+This course is a prerequisite for: 
+RAIK 402H
+, 
+BSAD 402H
+, 
+CSCE 402H
+, 
+SOFT 402H
+
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded 
+
+Offered:
+FALL
+
+ACE Outcomes:
+
+ACE 8 Civic/Ethics/Stewardship 
+
+Experiential Learning:
+Case/Project-Based Learning
+
+Credit Hours:
+3
+ACE:
+ACE 8 Civic/Ethics/Stewardship 
+
+CSCE
+402H
+Honors: RAIK Design Studio II
+Crosslisted with 
+RAIK 402H
+, 
+BSAD 402H
+, 
+SOFT 402H
+Prerequisites: Good standing in the University Honors Program or by invitation; admission to the Jeffrey S. Raikes School of Computer Science and Management; BSAD/CSCE/SOFT/
+RAIK 401H
+. 
+Second semester in the Jeffrey S. Raikes School of Computer Science and Management design studio 
+Description:
+
+Application of Raikes School core content in a team oriented, project management setting. Complete projects in consultation with private and public sector clients.
+This course is a prerequisite for: 
+RAIK 403H
+, 
+BSAD 403H
+, 
+CSCE 403H
+
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded 
+
+Offered:
+SPRING
+
+ACE Outcomes:
+
+ACE 10 Integrated Product 
+
+Experiential Learning:
+Case/Project-Based Learning
+
+Credit Hours:
+3
+ACE:
+ACE 10 Integrated Product 
+
+CSCE
+403H
+Honors: RAIK Design Studio III
+Crosslisted with 
+RAIK 403H
+, 
+BSAD 403H
+Prerequisites: Good standing in the University Honors Program or by invitation; admission to the Jeffrey S. Raikes School of Computer Science and Management; BSAD/CSCE/SOFT/
+RAIK 402H
+. 
+Third semester of Jeffrey S. Raikes School of Computer Science and Management design studio sequence. 
+Description:
+
+Application of Jeffrey S. Raikes School of Computer Science and Management core content in a team oriented, project management setting. Complete projects in consultation with private and public sector clients.
+This course is a prerequisite for: 
+RAIK 404H
+, 
+BSAD 404H
+, 
+CSCE 404H
+
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded 
+
+Experiential Learning:
+Case/Project-Based Learning
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+404H
+Honors: RAIK Design Studio IV
+Crosslisted with 
+RAIK 404H
+, 
+BSAD 404H
+Prerequisites: Good standing in the University Honors Program or by invitation; admission to the Jeffrey S. Raikes School of Computer Science and Management; and BSAD/CSCE/SOFT/
+RAIK 403H
+. 
+Fourth semester in the Jeffrey S. Raikes School of Computer Science and Management design studio sequence. 
+Description:
+
+Application of Raikes School core content in a team oriented, project management setting. Complete projects in consultation with private and public sector clients.
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded 
+
+Experiential Learning:
+Case/Project-Based Learning
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+405H
+Honors: RAIK Research Studio I
+Crosslisted with 
+RAIK 405H
+Prerequisites: Good standing in the University Honors Program or by invitation; admission to the Jeffrey S. Raikes School of Computer Science and Management; 
+RAIK 284H
+/
+SOFT 261H
+or equivalent. 
+First semester of Jeffrey S. Raikes School of Computer Science and Management research studio experience. Students work individually with a sponsoring faculty member from the area of their research and Raikes School faculty. 
+Description:
+
+Application of research principles to solve complex problems through the delivery of innovative, cutting-edge solutions and to gain an understanding of the roles involved.
+This course is a prerequisite for: 
+CSCE 406H
+, 
+RAIK 406H
+
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded 
+
+Offered:
+FALL
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+406H
+Honors: RAIK Research Studio II
+Crosslisted with 
+RAIK 406H
+Prerequisites: 
+RAIK 405H
+
+Second semester of Jeffrey S. Raikes School of Computer Science and Management research studio experience. Students work individually with a sponsoring faculty member from the area of their research and Raikes School faculty. 
+Description:
+
+Application of research principles to solve complex problems through the delivery of innovative, cutting-edge solutions and to gain an understanding of the roles involved.
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded 
+
+Offered:
+SPRING
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+410
+Information Retrieval Systems
+Crosslisted with 
+CSCE 810
+Prerequisites: A grade of "P" or "C" or better in 
+CSCE 310
+, 
+CSCE 310H
+, 
+CSCE 311
+, 
+SOFT 260
+, 
+SOFT 260H
+or 
+RAIK 283H
+. 
+Description:
+
+Outline of the general information retrieval problem, functional overview of information retrieval. Deterministic models of information retrieval systems; conventional Boolean, fuzzy set theory, p-norm, and vector space models. Probabilistic models. Text analysis and automatic indexing. Automatic query formulation. System-user adaptation and learning mechanisms. Intelligent information retrieval. Retrieval evaluation. Review of new theories and future directions. Practical experience with a working experimental information retrieval system.
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Offered:
+SPRING
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+411
+Data Modeling for Systems Development
+Crosslisted with 
+CSCE 811
+Prerequisites: A grade of "P" or "C" or better in 
+CSCE 310
+, 
+CSCE 310H
+, 
+CSCE 311
+, 
+SOFT 260
+, 
+SOFT 260H
+or 
+RAIK 283H
+. 
+Description:
+
+Concepts of relational and object-oriented data modeling through the process of data model development including conceptual, logical and physical modeling. Techniques for identifying and creating relationships between discrete data members, reasoning about how data modeling and analysis are incorporated in system design and development, and specification paradigms for data models. Common tools and technologies for engineering systems and frameworks for integrating data. Design and analysis of algorithms and techniques for identification and exploration of data relationships, such as Bayesian probability and statistics, clustering, map-reduce, and web-based visualization.
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+412
+Data Visualization
+Crosslisted with 
+CSCE 812
+Prerequisites: A grade of "P" or "C" or better in 
+CSCE 310
+, 
+CSCE 310H
+, 
+CSCE 311
+, 
+SOFT 260
+, 
+SOFT 260H
+or 
+RAIK 283H
+; 
+MATH 314
+. 
+Description:
+
+Fundamentals and implementations of data visualization techniques. Programming skills and practices in interactive visualization applications. Visualization foundations, human perception for information processing, and visualization techniques for different data types, such as scalar-field data, vector-field data, geospatial data, multivariate data, graph/network data, and text/document data. Advanced visualization algorithms and topics as time permits.
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Offered:
+FALL/SPR
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+413
+Database Systems
+Crosslisted with 
+CSCE 813
+Prerequisites: A grade of "P" or "C" or better in 
+CSCE 310
+, 
+CSCE 310H
+, 
+CSCE 311
+, 
+SOFT 260
+, 
+SOFT 260H
+or 
+RAIK 283H
+. 
+Involves practical experience with a working database system. 
+Description:
+
+Data and storage models for database systems; entity/relationship, relational, and constraint models; relational databases; relational algebra and calculus; structured query language; Logical database design: normalization; integrity; distributed data storage; concurrency; security issues. Spatial databases and geographic information systems.
+This course is a prerequisite for: 
+CSCE 913
+; 
+CSCE 914
+
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Course and Laboratory Fee:
+$40
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+415
+Computational Linguistics
+Crosslisted with 
+CSCE 815
+Prerequisites: Standing of junior class or above; one of 
+CSCE 310
+, 
+CSCE 311
+or 
+SOFT 260
+. 
+Description:
+
+Covers the fundamentals of language modeling, parsing, machine translation, computational and statistical methods in comparative linguistics, laws of phonological change and language evolution, language families and script families, ancient scripts, computational methods for script comparison and the analysis of script evolution.
+This course is a prerequisite for: 
+CSCE 915
+
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Offered:
+FALL/SPR
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+417
+Artificial Intelligence For Social Good
+Crosslisted with 
+CSCE 817
+Prerequisites: A grade of "P" or "C" or better in 
+CSCE 310
+, 
+CSCE 310H
+, 
+CSCE 311
+, 
+SOFT 260
+, 
+SOFT 260H
+or 
+RAIK 283H
+. Graduate prerequisite 
+CSCE 802
+. 
+Description:
+
+Analyzes studies that address societal challenges through machine learning (ML) and, more broadly, artificial intelligence (AI). Focuses on selected research categorized under AI for Social Good (AI4SG), spanning areas such as agriculture, education, environmental sustainability, healthcare, social care, public safety, and transportation.
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Offered:
+FALL/SPR
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+420
+Introduction to Natural Language Processing
+Crosslisted with 
+CSCE 820
+Prerequisites: A grade of "P" or "C" or better in 
+CSCE 310
+, 
+CSCE 310H
+, 
+CSCE 311
+, 
+SOFT 260
+, 
+SOFT 260H
+or 
+RAIK 283H
+. Graduate prerequisite: 
+CSCE 802
+. 
+Description:
+
+Introduction to fundamental concepts and techniques in Natural Language Processing.
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Offered:
+FALL/SPR
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+421
+Foundations of Constraint Processing
+Crosslisted with 
+CSCE 821
+Prerequisites: A grade of "P" or "C" or better in 
+CSCE 310
+, 
+CSCE 310H
+, 
+CSCE 311
+, 
+SOFT 260
+, 
+SOFT 260H
+or 
+RAIK 283H
+. 
+Description:
+
+Constraint processing for articulating and solving industrial problems such as design, scheduling, and resource allocation. The foundations of constraint satisfaction, its basic mechanisms (e.g., search, backtracking, and consistency-checking algorithms), and constraint programming languages. New directions in the field, such as strategies for decomposition and for symmetry identification.
+This course is a prerequisite for: 
+CSCE 921
+
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Course and Laboratory Fee:
+$10
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+422
+Introduction to Computational Game Theory
+Crosslisted with 
+CSCE 822
+Prerequisites: A grade of "P" or "C" or better in 
+CSCE 310
+, 
+CSCE 310H
+, 
+CSCE 311
+, 
+SOFT 260
+, 
+SOFT 260H
+or 
+RAIK 283H
+. Graduate prerequisite 
+CSCE 802
+. 
+Description:
+
+Introduction to essential tools for modeling and analyzing strategic interactions between self-interested agents. Covers key solution concepts used to predict decision-making behavior and examines the computational aspects of these solutions. Explores applications of game theory in areas such as security and social sciences.
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Offered:
+SPRING
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+423
+Design and Analysis of Algorithms
+Crosslisted with 
+CSCE 823
+Prerequisites: A grade of "P" or "C" or better in 
+CSCE 310
+, 
+CSCE 310H
+, 
+CSCE 311
+, 
+SOFT 260
+, 
+SOFT 260H
+or 
+RAIK 283H
+. 
+Description:
+
+Mathematical preliminaries. Strategies for algorithm design, including divide-and-conquer, greedy, dynamic programming and backtracking. Mathematical analysis of algorithms. Introduction to NP-Completeness theory, including the classes P and NP, polynomial transformations and NP-complete problems.
+This course is a prerequisite for: 
+CSCE 923
+; 
+CSCE 924
+; 
+CSCE 955
+
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Course and Laboratory Fee:
+$20
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+424
+Computational Complexity Theory
+Crosslisted with 
+CSCE 824
+Prerequisites: A grade of "P" or "C" or better in 
+CSCE 310
+, 
+CSCE 310H
+, 
+CSCE 311
+, 
+SOFT 260
+, 
+SOFT 260H
+or 
+RAIK 283H
+. 
+Description:
+
+Turing machine model of computation: deterministic, nondeterministic, alternating, probabilistic. Complexity classes: Time and space bounded, deterministic, nondeterministic, probabilistic. Reductions and completeness. Complexity of counting problems. Non-uniformity. Lower bounds. Interactive proofs.
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+425
+Compiler Construction
+Crosslisted with 
+CSCE 825
+Prerequisites: A grade of "P" or "C" or better in 
+CSCE 310
+, 
+CSCE 310H
+, 
+CSCE 311
+, 
+SOFT 260
+, 
+SOFT 260H
+or 
+RAIK 283H
+. 
+Description:
+
+Review of program language structures, translation, loading, execution, and storage allocation. Compilation of simple expressions and statements. Organization of a compiler including compile-time and run-time symbol tables, lexical scan, syntax scan, object code generation, error diagnostics, object code optimization techniques, and overall design.
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Course and Laboratory Fee:
+$20
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+428
+Automata, Computation, and Formal Languages
+Crosslisted with 
+CSCE 828
+Prerequisites: A grade of "P" or "C" or better in 
+CSCE 310
+, 
+CSCE 310H
+, 
+CSCE 311
+, 
+SOFT 260
+, 
+SOFT 260H
+or 
+RAIK 283H
+. 
+Description:
+
+Introduction to the classical theory of computer science. Finite state automata and regular languages, minimization of automata. Context free languages and pushdown automata, Turing machines and other models of computation, undecidable problems, introduction to computational complexity.
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Course and Laboratory Fee:
+$20
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+429
+Information Theory
+Crosslisted with 
+CSCE 829
+Prerequisites: A grade of "P" or "C" or better in 
+CSCE 310
+, 
+CSCE 310H
+, 
+CSCE 311
+, 
+SOFT 260
+, 
+SOFT 260H
+or 
+RAIK 283H
+; 
+STAT 380
+, 
+ECEN 305
+or 
+RAIK 270H
+. 
+Description:
+
+Deals with the foundations of information theory, as well as the more practical aspects of information coding. Information measures are first introduced, and then applied to the analysis of the theoretical performance achievable in data compression and propagation over noisy channels.
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Offered:
+SPRING
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+430
+Computer Architecture
+Crosslisted with 
+CSCE 830
+Prerequisites: A grade of "P" or "C" or better in 
+CSCE 310
+, 
+CSCE 310H
+, 
+CSCE 311
+, 
+SOFT 260
+, 
+SOFT 260H
+or 
+RAIK 283H
+; Coreq: 
+STAT 380
+, 
+ECEN 305
+or 
+RAIK 270H
+. 
+Description:
+
+Architecture of single-processor (Von Neumann or SISD) computer systems. Evolution, design, implementation, and evaluation of state-of-the-art systems. Memory Systems, including interleaving, hierarchies, virtual memory and cache implementations; Communications and I/O, including bus architectures, arbitration, I/O processors and DMA channels; and Central Processor Architectures, including RISC and Stack machines, high-speed arithmetic, fetch/execute overlap, and parallelism in a single-processor system.
+This course is a prerequisite for: 
+CSCE 955
+
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Course and Laboratory Fee:
+$20
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+431
+Hardware and Software Acceleration for Machine Learning
+Crosslisted with 
+CSCE 831
+Prerequisites: A grade of "P" or "C" or better in 
+CSCE 230
+or 
+CSCE 231
+and 
+CSCE 310
+, 
+CSCE 310H
+, 
+CSCE 311
+, 
+SOFT 260
+, 
+SOFT 260H
+or 
+RAIK 283H
+. 
+Description:
+
+Overview of the hardware and software acceleration techniques, including basics of deep learning, deep learning frameworks, hardware accelerators, co-optimization of algorithms and hardware, training and inference, support for state-of-the-art deep learning networks.
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Offered:
+FALL
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+435
+Cluster and Grid Computing
+Crosslisted with 
+CSCE 835
+Prerequisites: A grade of "P" or "C" or better in 
+CSCE 310
+, 
+CSCE 310H
+, 
+CSCE 311
+, 
+SOFT 260
+, 
+SOFT 260H
+, or 
+RAIK 283H
+. 
+Designed for CSCE and non-CSCE students who have an interest in building or programming clusters to enhance their computationally-intense research. 
+Description:
+
+Build and program clusters. Cluster construction, cluster administration, cluster programming, and grid computing.
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+436
+Advanced Embedded Systems
+Crosslisted with 
+CSCE 836
+Prerequisites: A grade of "P" or "C" or better in 
+CSCE 231
+, 
+CSCE 336
+or 
+ECEN 220
+. 
+Description:
+
+Embedded hardware design techniques; transceiver design and low-power communication techniques; sensors and distributed sampling techniques; embedded software design and embedded operating systems; driver development; embedded debugging techniques;hardware and software architectures of embedded systems; and design, development, and implementation of embedded applications.
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Course and Laboratory Fee:
+$40
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+438
+Internet of Things
+Crosslisted with 
+CSCE 838
+Prerequisites: 
+CSCE 230
+or 
+CSCE 231
+; 
+SOFT 260
+, 
+CSCE 310
+, 
+CSCE 310H
+, 
+CSCE 311
+or equivalent; senior or graduate standing or instructor permission. 
+Description:
+
+Theoretical and practical insight into the Internet of Things (IoT). Basics of IoT, including devices and sensors, connectivity, cloud processing and storage, analytics and machine learning, security, business models as well as advanced topics such as localization, synchronization, connected vehicles, and applications of IoT. Includes a group project that provides hands-on interaction with IoT.
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Course and Laboratory Fee:
+$20
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+439
+Robotics: Algorithms and Applications
+Crosslisted with 
+CSCE 839
+Prerequisites: A grade of "P" or "C" or better in 
+CSCE 231
+, 
+CSCE 336
+or 
+ECEN 220
+and 
+CSCE 310
+, 
+CSCE 310H
+, 
+CSCE 311
+, 
+SOFT 260
+, 
+SOFT 260H
+or 
+RAIK 283H
+
+Description:
+
+Fundamental theory and algorithms for real world robot systems. Design and build a robot platform and implement algorithms in C++ or other high level languages. Topics include: open and closed loop control, reactive control, localization, navigation, path planning, obstacle avoidance, dynamics, kinematics, manipulation and grasping, sensing, robot vision processing, and data fusion.
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Offered:
+FALL/SPR
+
+Course and Laboratory Fee:
+$50
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+440
+Numerical Analysis I
+Crosslisted with 
+CSCE 840
+, 
+MATH 440
+, 
+MATH 840
+Prerequisites: 
+CSCE 155A
+, 
+CSCE 155E
+, 
+CSCE 155H
+, 
+CSCE 155N
+, 
+CSCE 155T
+, or 
+SOFT 160
+; 
+MATH 107
+. Credit toward the degree may be earned in only one of the following: 
+CSCE 440
+/
+MATH 440
+and 
+MECH 480
+
+Description:
+
+Principles of numerical computing and error analysis covering numerical error, root finding, systems of equations, interpolation, numerical differentiation and integration, and differential equations. Modeling real-world engineering problems on digital computers. Effects of floating point arithmetic.
+This course is a prerequisite for: 
+CSCE 942
+
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Course and Laboratory Fee:
+$20
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+443
+Cybersecurity for Big Data, Cloud and Cryptocurrencies
+Crosslisted with 
+CSCE 843
+Prerequisites: A grade of "P" or "C" or better in 
+CSCE 310
+, 
+CSCE 310H
+, 
+CSCE 311
+, 
+SOFT 260
+, 
+SOFT 260H
+or 
+RAIK 283H
+. 
+Labs will be conducted on academic cloud and compute environments as well as public clouds. 
+Description:
+
+Covers the cybersecurity threat landscape and the mitigation strategies for Big Data, Cloud environments and Cryptocurrencies. Discusses emerging technologies and frameworks such as End-to-end encryption, Blockchains, Smart Contracts, OpenID Connect and OAuth2.0 as promising solutions to ensure data confidentiality and privacy.
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Offered:
+FALL
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+445
+Eye Tracking in Usability and Software Engineering
+Crosslisted with 
+CSCE 845
+Prerequisites: 
+SOFT 261
+or 
+CSCE 361
+. 
+Description:
+
+Create and evaluate new and existing human computer interfaces in the context of software engineering. Interdisciplinary applications of eye tracking in various areas of software engineering, biometrics, and psychology among others will be presented. Learn how to design, conduct, and analyze a technically sound eye tracking empirical study for software engineering problems in a group setting.
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Offered:
+SPRING
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+451
+Operating Systems Principles
+Crosslisted with 
+CSCE 851
+Prerequisites: A grade of "P" or "C" or better in 
+CSCE 230
+or 
+CSCE 231
+and 
+CSCE 310
+, 
+CSCE 310H
+, 
+CSCE 311
+, 
+SOFT 260
+, 
+SOFT 260H
+or 
+RAIK 283H
+. 
+Description:
+
+Organization and structure of operating systems. Control, communication, and synchronization of concurrent processes. Processor and job scheduling. Memory organization and management including paging, segmentation, and virtual memory. Resource management. Deadlock avoidance, detection, recovery. File system concepts and structure. Protection and security. Substantial programming.
+This course is a prerequisite for: 
+CSCE 455
+, 
+CSCE 855
+
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Course and Laboratory Fee:
+$20
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+453H
+Honors: User Interfaces
+Crosslisted with 
+RAIK 453H
+Prerequisites: A grade of "P" or "C+" or higher in 
+CSCE 156
+, 
+CSCE 156H
+, 
+CSCE 220
+, 
+CSCE 311
+, 
+RAIK 184H
+, 
+SOFT 161
+, or 
+SOFT 161H
+. Good standing in the University Honors Program. 
+Enrolled students are expected to have advanced communication skills and a high commitment to conscientiousness. Students who are not in the University Honors Program but nonetheless meet these requirements may request permission of the instructor to enroll. Meeting ACE1 and ACE2 requirements prior to taking this course is recommended. 
+Description:
+
+Introduction to the areas of user interfaces and user experience through reading and hands-on experiences. Areas covered include the psychology and physiology of design, the process of interface design, cultural values and accessibility, designing for beauty and delight, and dynamic evaluation strategies.
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+454
+Human-Robot Interaction
+Crosslisted with 
+CSCE 854
+Prerequisites: A grade of "P" or "C" or better in 
+CSCE 156
+, 
+CSCE 156H
+, 
+SOFT 161
+, 
+SOFT 161H
+, 
+RAIK 184H
+or 
+CSCE 311
+. 
+Meeting ACE1 and ACE2 requirements prior to taking this course is recommended. Non-CSCE majors may discuss qualifications with the instructor. 
+Description:
+
+Introduction to the area of human-robot interaction through the reading and discussion of current peer-reviewed articles on topic to include teleoperation, social robotics, and open questions with field-based or aerial robotic systems. Areas covered include: research methods, experimental design, and identification of problems/open questions.
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Offered:
+FALL/SPR
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+455
+Distributed Operating Systems
+Crosslisted with 
+CSCE 855
+Prerequisites: 
+CSCE 451
+/851. 
+Description:
+
+Organization and structure of distributed operating systems. Control, communication and synchronization of concurrent processes in the context of distributed systems. Processor allocation and scheduling. Deadlock avoidance, detection, recovery in distributed systems. Fault tolerance. Distributed file system concepts and structure.
+This course is a prerequisite for: 
+CHME 496
+, 
+CHME 896
+
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Course and Laboratory Fee:
+$20
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+456
+Parallel Programming
+Crosslisted with 
+CSCE 856
+Prerequisites: A grade of "P" or "C" or better in 
+CSCE 310
+, 
+CSCE 310H
+, 
+CSCE 311
+, 
+SOFT 260
+, 
+SOFT 260H
+, or 
+RAIK 283H
+. 
+Description:
+
+Introduction to the fundamentals of parallel computation and applied algorithm design. Methods and models of modern parallel computation; general techniques for designing efficient parallel algorithms for distributed and shared memory multiprocessor machines; principles and practice in programming an existing parallel machine.
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Course and Laboratory Fee:
+$10
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+457
+Systems Administration
+Crosslisted with 
+CSCE 857
+Prerequisites: A grade of "P" or "C" or better in 
+CSCE 310
+, 
+CSCE 310H
+, 
+CSCE 311
+, 
+SOFT 260
+, 
+SOFT 260H
+or 
+RAIK 283H
+. 
+Description:
+
+Introduction to basic concepts of system administration. Operating systems and networking overview. User and resource management. Networking, systems and internet related security. System services and common applications, web services, database services, and mail servers. Basic scripting in shell, Perl, and Expect. Systems administration on UNIX® platform.
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+458
+Molecular and Nanoscale Communication
+Crosslisted with 
+CSCE 858
+Prerequisites: A grade of "P" or "C" or better in 
+CSCE 310
+, 
+CSCE 310H
+, 
+CSCE 311
+, 
+SOFT 260
+, 
+SOFT 260H
+or 
+RAIK 283H
+; 
+STAT 380
+, 
+ECEN 305
+or 
+RAIK 270H
+. 
+Completing 
+CSCE 462
+/862 and 
+CSCE 465
+/865 prior to taking this course is recommended. Exceptions can be granted on a per-student basis by the instructor. 
+Description:
+
+Overview of nanoscale communication options. Focus on bio-inspired communication through molecule exchange and biochemical reactions. Different techniques to realize nanomachines will be surveyed in the course, with particular attention to the tools provided by synthetic biology for the programming of biological cooperative systems.
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Offered:
+FALL/SPR
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+459
+Genetically Engineered Systems
+Crosslisted with 
+CSCE 859
+Prerequisites: A grade of "P" or "C" or better in 
+CSCE 310
+, 
+CSCE 310H
+, 
+CSCE 311
+, 
+SOFT 260
+, 
+SOFT 260H
+or 
+RAIK 283H
+; 
+STAT 380
+, 
+ECEN 305
+or 
+RAIK 270H
+. 
+Completing CSCE/
+MATH 440
+/840, 
+MATH 439
+/839, and 
+CSCE 471
+/871 prior to taking this course is recommended. Exceptions can be granted on a per-student basis by the instructor. Meeting ACE 1 and ACE 2 requirements prior to taking this course is recommended. Non-CSCE majors may discuss qualifications with the instructor. 
+Description:
+
+Introduction to the field of synthetic biology, and its interdisciplinary foundational concepts. Presents the technologies at the basis of synthetic biology, together with the engineering concepts that underlie the design, modeling, and realization of genetically engineered systems. Surveys examples of cutting edge applications.
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Offered:
+FALL/SPR
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+460
+Software Engineering for Robotics
+Crosslisted with 
+SOFT 460
+, 
+CSCE 860
+Prerequisites: 
+SOFT 261
+or 
+RAIK 284H
+or 
+CSCE 361
+
+Description:
+
+Application of software engineering practices and principles to autonomous robotic systems.
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded 
+
+Offered:
+FALL
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+461
+Advanced Topics in Software Engineering
+Crosslisted with 
+CSCE 861
+, 
+SOFT 461
+Prerequisites: A grade of "P" or "C" or better in 
+CSCE 361
+, 
+CSCE 361H
+, 
+SOFT 261
+, 
+SOFT 261H
+or 
+RAIK 284H
+. 
+Description:
+
+Advanced or emerging techniques in software engineering. Topics include but not limited to design methodology, software dependability, and advanced software development environments.
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+462
+Communication Networks
+Crosslisted with 
+CSCE 862
+Prerequisites: A grade of "P" or "C" or better in 
+CSCE 310
+, 
+CSCE 310H
+, 
+CSCE 311
+, 
+SOFT 260
+, 
+SOFT 260H
+or 
+RAIK 283H
+; 
+STAT 380
+, 
+ECEN 305
+or 
+RAIK 270H
+. 
+Description:
+
+Introduction to the architecture of communication networks and the rudiments of performance modeling. Circuit switching, packet switching, hybrid switching, protocols, local and metro area networks, wide area networks and the Internet, elements of performance modeling, and network programming. Network security, asynchronous transfer mode (ATM), optical, wireless, cellular, and satellite networks, and their performance studies.
+This course is a prerequisite for: 
+CSCE 952
+; 
+CSCE 953
+; 
+CSCE 955
+
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Course and Laboratory Fee:
+$20
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+463
+Data and Network Security
+Crosslisted with 
+CSCE 863
+, 
+ECEN 487
+, 
+ECEN 887
+Prerequisites: A grade of "P" or "C" or better in 
+CSCE 310
+, 
+CSCE 310H
+, 
+CSCE 311
+, 
+SOFT 260
+, 
+SOFT 260H
+or 
+RAIK 283H
+. 
+Description:
+
+Concepts and principles of data and network security. Focuses on practical aspects and application of crypto systems in security protocols for networks such as the Internet. Topics include: applications of cryptography and cryptosystems for digital signatures, authentication, network security protocols for wired and wireless networks, cyberattacks and countermeasures, and security in modern computing platforms.
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Offered:
+SPRING
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+464
+Internet Systems and Programming
+Crosslisted with 
+CSCE 864
+Prerequisites: A grade of "Pass" or C or better in 
+CSCE 156
+, 
+SOFT 161
+, 
+RAIK 184H
+or 
+CSCE 311
+or equivalent programming experience. 
+A grade of "Pass" or C or better in 
+CSCE 156
+, 
+SOFT 161
+, 
+RAIK 184H
+or 
+CSCE 311
+or equivalent programming experience. 
+Description:
+
+Paradigms, systems, and languages for Internet applications. Client-side and server-side programming, object-based and event-based distributed programming, and multi-tier applications. Coverage of specific technologies varies.
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+465
+Wireless Communication Networks
+Crosslisted with 
+CSCE 865
+Prerequisites: A grade of "P" or "C" or better in 
+STAT 380
+, 
+ECEN 305
+or 
+RAIK 270H
+
+Description:
+
+Discussion of theoretical and practical insight to wireless communications and wireless networking, current practices, and future trends. Wireless network architectures, mobility management, radio propagation, modulation, power control, antennas, channel access, pricing, and standards.
+This course is a prerequisite for: 
+CSCE 954
+
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+466
+Software Design and Architecture
+Crosslisted with 
+SOFT 466
+, 
+CSCE 866
+Prerequisites: A grade of "P" or "C" or better in 
+CSCE 361
+, 
+CSCE 361H
+, 
+SOFT 261
+, 
+SOFT 261H
+or 
+RAIK 284H
+. 
+Letter grade only. 
+Description:
+
+Introduction to the concepts, principles, and state-of-the-art methods in software design and architecture. Topics include application of software engineering process models and management approaches for the design and architecture of large-scale software systems, trade-offs of designing for qualities such as performance, security, and dependability, and techniques and tools for analyzing and evaluating software architectures.
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded 
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+467
+Testing, Verification and Analysis
+Crosslisted with 
+SOFT 467
+, 
+CSCE 867
+Prerequisites: A grade of "P" or "C" or better in 
+CSCE 361
+, 
+CSCE 361H
+, 
+SOFT 261
+, 
+SOFT 261H
+or 
+RAIK 284H
+. 
+Letter grade only. 
+Description:
+
+In-depth coverage of problems related to software quality, and approaches for addressing them. Topics include testing techniques, dynamic and static program analysis techniques, and other approaches for verifying software qualities. Tool support for performing testing, verification, and analysis will also be studied.
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded 
+
+Course and Laboratory Fee:
+$20
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+468
+Requirements Elicitation, Modeling and Analysis
+Crosslisted with 
+SOFT 468
+, 
+CSCE 868
+Prerequisites: A grade of "P" or "C" or better in 
+CSCE 361
+, 
+CSCE 361H
+, 
+SOFT 261
+, 
+SOFT 261H
+or 
+RAIK 284H
+. 
+Letter grade only. 
+Description:
+
+In-depth coverage of processes, methods and techniques for determining, or deciding, what a proposed software system should do. Topics include the requirements engineering process, identification of stakeholders, requirements elicitation techniques, methods for informal and formal requirements documentation, techniques for analyzing requirements models for consistency and completeness, and traceability of requirements across system development and evolution. Tool support for modeling functional and non-functional requirements to support elicitation and analysis will be studied.
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded 
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+469
+Secure Software Engineering
+Crosslisted with 
+SOFT 469
+, 
+CSCE 869
+Prerequisites: 
+SOFT 261
+, 
+CSCE 361
+, 
+RAIK 284H
+, or graduate standing. 
+Description:
+
+Introduction to concepts, principles and state-of-the-art methods in creating and maintaining secure software systems.
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+470
+Computer Graphics
+Crosslisted with 
+CSCE 870
+Prerequisites: A grade of "P" or "C" or better in 
+CSCE 310
+, 
+CSCE 310H
+, 
+CSCE 311
+, 
+SOFT 260
+, 
+SOFT 260H
+or 
+RAIK 283H
+; 
+MATH 314
+
+Description:
+
+Display and recording devices; incremental plotters; point, vector, and character generation; grey scale displays, digitizers and scanners, digital image storage; interactive and passive graphics; pattern recognition; data structures and graphics software; the mathematics of three dimensions; homogeneous coordinates; projections and the hidden-line problem.
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Course and Laboratory Fee:
+$20
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+471
+Computational Methods in Bioinformatics
+Crosslisted with 
+CSCE 871
+Prerequisites: A grade of "P" or "C" or better in 
+CSCE 310
+, 
+CSCE 310H
+, 
+CSCE 311
+, 
+SOFT 260
+, 
+SOFT 260H
+or 
+RAIK 283H
+. 
+Description:
+
+Introduction to computational methods for tackling challenges in biological data analysis and modeling and understanding complex systems at the molecular and cellular level. The main topics include bio-sequence analysis, motif finding, structure prediction, phylogenic inference, regulation network modeling, and high-throughput omics data analysis.
+This course is a prerequisite for: 
+CSCE 971
+
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Offered:
+SPRING
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+472
+Digital Image Processing
+Crosslisted with 
+CSCE 872
+Prerequisites: A grade of "Pass" or C or better in 
+CSCE 156
+, 
+SOFT 161
+, 
+RAIK 184H
+or 
+CSCE 311
+or equivalent programming experience. 
+A grade of "Pass" or C or better in 
+CSCE 156
+, 
+SOFT 161
+, 
+RAIK 184H
+or 
+CSCE 311
+or equivalent programming experience. 
+Description:
+
+Digital imaging systems, digital image processing, and low-level computer vision. Data structures, algorithms, and system analysis and modeling. Digital image formation and presentation, image statistics and descriptions, operations and transforms, and system simulation. Applications include system design, restoration and enhancement, reconstruction and geometric manipulation, compression, and low-level analysis for computer vision.
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Course and Laboratory Fee:
+$10
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+473
+Computer Vision
+Crosslisted with 
+CSCE 873
+Prerequisites: 
+CSCE 156
+, 
+SOFT 161
+, or 
+CSCE 311
+or equivalent programming experience. 
+A grade of "Pass" or C or better in 
+CSCE 156
+, 
+SOFT 161
+, 
+RAIK 184H
+or 
+CSCE 311
+or equivalent programming experience. 
+Description:
+
+High-level processing for image understanding and high-level vision. Data structures, algorithms, and modeling. Low-level representation, basic pattern-recognition and image-analysis techniques, segmentation, color, texture and motion analysis, and representation of 2-D and 3-D shape. Applications for content-based image retrieval, digital libraries, and interpretation of satellite imagery.
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Course and Laboratory Fee:
+$40
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+474
+Introduction to Data Mining
+Crosslisted with 
+CSCE 874
+Prerequisites: A grade of "P" or "C" or better in 
+CSCE 310
+, 
+CSCE 310H
+, 
+CSCE 311
+, 
+SOFT 260
+, 
+SOFT 260H
+or 
+RAIK 283H
+; 
+STAT 380
+, 
+ECEN 305
+or 
+RAIK 270H
+. 
+Requires the completion of a project involving the application of data mining techniques to real-world problems. 
+Description:
+
+Data mining and knowledge discovery methods and their application to real-world problems. Algorithmic and systems issues. Statistical foundations, association discovery, classification, prediction, clustering, spatial data mining and advanced techniques.
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+475
+Multiagent Systems
+Crosslisted with 
+CSCE 875
+Prerequisites: A grade of "P" or "C" or better in 
+CSCE 310
+, 
+CSCE 310H
+, 
+CSCE 311
+, 
+SOFT 260
+, 
+SOFT 260H
+or 
+RAIK 283H
+. 
+Description:
+
+Distributed problem solving and planning, search algorithms for agents, distributed rational decision making, learning multiagent systems, computational organization theory, formal methods in Distributed Artificial Intelligence, multiagent negotiations, emergent behaviors (such as ants and swarms), and Robocup technologies and real-time coalition formation.
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+476
+Introduction to Artificial Intelligence
+Crosslisted with 
+CSCE 876
+Prerequisites: A grade of "P" or "C" or better in 
+CSCE 310
+, 
+CSCE 310H
+, 
+CSCE 311
+, 
+SOFT 260
+, 
+SOFT 260H
+or 
+RAIK 283H
+. 
+Description:
+
+Introduction to basic principles, techniques, and tools now being used in the area of machine intelligence. Languages for AI programming introduced with emphasis on LISP. Lecture topics include problem solving, search, game playing, knowledge representation, expert systems, and applications.
+This course is a prerequisite for: 
+CSCE 976
+
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Course and Laboratory Fee:
+$40
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+478
+Introduction to Machine Learning
+Crosslisted with 
+CSCE 878
+Prerequisites: A grade of "P" or "C" or better in 
+CSCE 310
+, 
+CSCE 310H
+, 
+CSCE 311
+, 
+SOFT 260
+, 
+SOFT 260H
+or 
+RAIK 283H
+. 
+STAT 380
+, 
+ECEN 305
+, or 
+RAIK 270H
+recommended. 
+Description:
+
+Introduction to the fundamentals and current trends in machine learning. Possible applications for game playing, text categorization, speech recognition, automatic system control, date mining, computational biology, and robotics. Theoretical and empirical analyses of decision trees, artificial neural networks, Bayesian classifiers, genetic algorithms, instance-based classifiers and reinforcement learning.
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Course and Laboratory Fee:
+$50
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+479
+Introduction to Deep Learning
+Crosslisted with 
+CSCE 879
+Prerequisites: A grade of "P" or "C" or better in 
+CSCE 310
+, 
+CSCE 310H
+, 
+CSCE 311
+, 
+SOFT 260
+, 
+SOFT 260H
+or 
+RAIK 283H
+. 
+Completing 
+STAT 380
+/
+RAIK 270H
+or 
+ECEN 305
+prior to taking this course is recommended. 
+Description:
+
+Fundamentals and current trends in deep learning. Backpropagation, activation functions, loss functions, choosing an optimizer, and regularization. Common architectures such as convolutional, autoencoders, and recurrent. Applications such as image analysis, text analysis, sequence analysis, and reinforcement learning.
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Offered:
+SPRING
+
+Course and Laboratory Fee:
+$50
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+480H
+Honors: Generative AI - Applications, Ethics, and Research
+Crosslisted with 
+RAIK 480H
+, 
+CSCE 880
+Prerequisites: Good standing in the University Honors Program; 
+CSCE 320
+or 
+RAIK 370H
+. Familiarity with machine learning is recommended. 
+Description:
+
+Focuses on research and discussion to examine recent developments in and the implementations of Generative Artificial Intelligence (AI) systems. Covers ethical implications and potential broader impacts, while applying them to various domains, culminating in a class project. Specific concepts covered include core generative technologies ranging from variational autoencoders (VAEs), generative adversarial networks (GANs), and transformer-based models like large language models (LLMs) and diffusion image generation; key related concepts in terms of data considerations, model parameters and hyperparameters, finetuning and prompt engineering techniques; and practical use cases in terms of technology and industry through research paper reviews and case study discussions.
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Offered:
+FALL
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+484
+Data Science Professional Development
+Prerequisites: 
+CSCE 311
+
+Description:
+
+Preparation for the senior design project. Professional practice through familiarity with current tools, resources, and technologies. Professional standards, practices and ethics, and the oral and written report styles used specifically in the field of data science.
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Offered:
+FALL
+
+Credit Hours:
+3
+ACE:
+
+CSCE
+486
+Computer Science Professional Development
+Prerequisites: A grade of "Pass" or "C" or better in 
+SOFT 261
+, 
+SOFT 261H
+, 
+CSCE 361
+, or 
+CSCE 361H
+. JGEN 200. 
+Must be taken exactly one semester before 
+CSCE 487
+or 
+CSCE 487H
+. 
+Description:
+
+Preparation for the senior design project. Professional practice through familiarity with current tools, resources, and technologies. Professional standards, practices and ethics, and the oral and written report styles used specifically in the field of computer science.
+This course is a prerequisite for: 
+CSCE 487
+; 
+CSCE 487H
+
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Course and Laboratory Fee:
+$10
+
+ACE Outcomes:
+
+ACE 8 Civic/Ethics/Stewardship 
+
+Experiential Learning:
+Case/Project-Based Learning
+
+Credit Hours:
+3
+ACE:
+ACE 8 Civic/Ethics/Stewardship 
+
+CSCE
+486H
+Honors Computer Science Professional Development
+Prerequisites: A grade of "Pass" or "C" or better in 
+SOFT 261
+, 
+SOFT 261H
+, 
+CSCE 361
+, or 
+CSCE 361H
+. JGEN 200. Credit toward the degree cannot be earned in 
+CSCE 486
+and 
+CSCE 486H
+. 
+Must be taken exactly one semester before 
+CSCE 487
+or 
+CSCE 487H
+. 
+Description:
+
+Preparation for the senior design project. Professional practice through familiarity with current tools, resources, and technologies. Professional standards, practices and ethics, and the oral and written report styles used specifically in the field of computer science.
+This course is a prerequisite for: 
+CSCE 487H
+
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Offered:
+FALL
+
+ACE Outcomes:
+
+ACE 8 Civic/Ethics/Stewardship 
+
+Experiential Learning:
+Case/Project-Based Learning
+
+Credit Hours:
+3
+ACE:
+ACE 8 Civic/Ethics/Stewardship 
+
+CSCE
+487
+Computer Science Senior Design Project
+Prerequisites: 
+CSCE 486
+
+Should be taken in the immediate next term after 
+CSCE 486
+. 
+Description:
+
+A substantial computer science project requiring design, planning and scheduling, teamwork, written and oral communications, and the integration and application of technical and analytical aspects of computer science and software engineering.
+This course is a prerequisite for: 
+SOFT 403
+; 
+SOFT 403H
+
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Course and Laboratory Fee:
+$40
+
+ACE Outcomes:
+
+ACE 10 Integrated Product 
+
+Experiential Learning:
+Case/Project-Based Learning
+
+Credit Hours:
+3
+ACE:
+ACE 10 Integrated Product 
+
+CSCE
+487H
+Honors Computer Science Senior Design Project
+Prerequisites: 
+CSCE 486
+or 
+CSCE 486H
+. Credit toward the degree cannot be earned in both 
+CSCE 487
+and 
+CSCE 487H
+. 
+Should be taken in the immediate next term after 
+CSCE 486
+or 
+CSCE 486H
+. 
+Description:
+
+A substantial computer science project requiring design, planning and scheduling, teamwork, written and oral communications, and the integration and application of technical and analytical aspects of computer science and software engineering.
+This course is a prerequisite for: 
+SOFT 403H
+
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Offered:
+SPRING
+
+ACE Outcomes:
+
+ACE 10 Integrated Product 
+
+Experiential Learning:
+Case/Project-Based Learning
+
+Credit Hours:
+3
+ACE:
+ACE 10 Integrated Product 
+
+CSCE
+488
+Computer Engineering Professional Development
+Prerequisites: 
+CSCE 336
+; A grade of "Pass" or "C" or better in 
+CSCE 361
+or 
+CSCE 361H
+; formal admission to the College of Engineering; prereq or coreq: JGEN 300. 
+Must be taken exactly one semester before 
+CSCE 489
+or 
+CSCE 489H
+. 
+Description:
+
+Preparation for the senior design project. Professional practice through familiarity and practice with current tools, resources, and technologies; professional standards, practices, and ethics; and oral and written report styles used in the computer engineering field.
+This course is a prerequisite for: 
+CSCE 489
+; 
+CSCE 489H
+
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Course and Laboratory Fee:
+$10
+
+ACE Outcomes:
+
+ACE 8 Civic/Ethics/Stewardship 
+
+Experiential Learning:
+Case/Project-Based Learning
+
+Credit Hours:
+3
+ACE:
+ACE 8 Civic/Ethics/Stewardship 
+
+CSCE
+488H
+Honors Computer Engineering Professional Development
+Prerequisites: 
+CSCE 336
+; A grade of "Pass" or "C" or better in 
+CSCE 361
+or 
+CSCE 361H
+; formal admission to the College of Engineering; prereq or coreq: JGEN 300. Credit toward the degree cannot be earned in 
+CSCE 488
+and 
+CSCE 488H
+. 
+Must be taken exactly one semester before 
+CSCE 489
+or 
+CSCE 489H
+. 
+Description:
+
+Preparation for the senior design project. Professional practice through familiarity and practice with current tools, resources, and technologies; professional standards, practices, and ethics; and oral and written report styles used in the computer engineering field.
+This course is a prerequisite for: 
+CSCE 489H
+
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Offered:
+FALL
+
+ACE Outcomes:
+
+ACE 8 Civic/Ethics/Stewardship 
+
+Experiential Learning:
+Case/Project-Based Learning
+
+Credit Hours:
+3
+ACE:
+ACE 8 Civic/Ethics/Stewardship 
+
+CSCE
+489
+Computer Engineering Senior Design Project
+Prerequisites: 
+CSCE 488
+(taken exactly one semester previous). 
+Description:
+
+A substantial computer engineering project requiring hardware-software co-design, planning and scheduling, teamwork, written and oral communications, and the integration and application of technical and analytical aspects of computer science and computer engineering.
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Course and Laboratory Fee:
+$40
+
+ACE Outcomes:
+
+ACE 10 Integrated Product 
+
+Experiential Learning:
+Case/Project-Based Learning
+
+Credit Hours:
+3
+ACE:
+ACE 10 Integrated Product 
+
+CSCE
+489H
+Honors Computer Engineering Senior Design Project
+Prerequisites: 
+CSCE 488
+or 
+CSCE 488H
+(taken exactly one semester previous). Credit toward the degree cannot be earned in both 
+CSCE 489
+and 
+CSCE 489H
+. 
+Description:
+
+A substantial computer engineering project requiring hardware-software co-design, planning and scheduling, teamwork, written and oral communications, and the integration and application of technical and analytical aspects of computer science and computer engineering.
+Course details
+
+Credit Hours:
+3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+3 
+
+Grading Option:
+Graded with Option 
+
+Offered:
+SPRING
+
+ACE Outcomes:
+
+ACE 10 Integrated Product 
+
+Experiential Learning:
+Case/Project-Based Learning
+
+Credit Hours:
+3
+ACE:
+ACE 10 Integrated Product 
+
+CSCE
+492
+Special Topics in Computer Science
+Crosslisted with 
+CSCE 892
+Prerequisites: 
+CSCE 310
+/
+CSCE 310H
+, 
+CSCE 311
+, 
+SOFT 260
+/
+SOFT 260H
+/
+RAIK 283H
+, or graduate standing. 
+Description:
+
+Aspects of computers and computing not covered elsewhere in the curriculum presented as the need arises.
+Course details
+
+Credit Hours:
+1-3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+6 
+
+Grading Option:
+Graded with Option 
+
+Course and Laboratory Fee:
+$40
+
+Credit Hours:
+1-3
+ACE:
+
+CSCE
+492H
+Honors Special Topics in Computer Science
+Prerequisites: Permission. Credit toward the degree cannot be earned in both 
+CSCE 492
+and 
+CSCE 492H
+. 
+Description:
+
+Topics vary
+Course details
+
+Credit Hours:
+1-3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+6 
+
+Grading Option:
+Graded with Option 
+
+Credit Hours:
+1-3
+ACE:
+
+CSCE
+493
+Innovation Lab Project
+Prerequisites: 
+CSCE 310
+, 
+CSCE 310H
+, 
+CSCE 311
+, or 
+CSCE 320
+
+Description:
+
+Innovative team projects executed under the guidance of members of the faculty of the Department of Computer Science and Managing Director of the CSCE Innovation Lab. Students will work in teams and collaborate with CSE research faculty, supervising MS students, and sponsors that include private sectors and UNL faculty to design and develop real-world systems.
+Course details
+
+Credit Hours:
+1-3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+6 
+
+Grading Option:
+Graded with Option 
+
+Experiential Learning:
+Case/Project-Based Learning
+
+Credit Hours:
+1-3
+ACE:
+
+CSCE
+493A
+Interdisciplinary Capstone
+Prerequisites: 
+CSCE 311
+
+Does not apply toward any requirements for the Computer Science or Computer Engineering degree. Required for the Informatics minor. 
+Description:
+
+Innovative team projects executed under the guidance of members of the faculty of the Department of Computer Science and Managing Director of the CSCE Innovation Lab. Work in teams and collaboration with CSE research faculty and sponsors that include private sectors and UNL faculty to design and develop real-world systems to solve interdisciplinary problems.
+Course details
+
+Credit Hours:
+1-3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+6 
+
+Grading Option:
+Graded 
+
+Experiential Learning:
+Case/Project-Based Learning
+
+Credit Hours:
+1-3
+ACE:
+
+CSCE
+495
+Internship in Computing Practice
+Prerequisites: Permission. 
+Requires a detailed project proposal and final report. 
+Description:
+
+Experiential learning in conjunction with an approved industrial or government agency under the joint supervision of an outside sponsor and a faculty advisor.
+Course details
+
+Credit Hours:
+1-3
+
+Max credits per semester:
+3 
+
+Max credits per degree:
+6 
+
+Grading Option:
+Graded with Option 
+
+Experiential Learning:
+Internship/Co-op
+
+Credit Hours:
+1-3
+ACE:
+
+CSCE
+498
+Computer Problems
+Crosslisted with 
+CSCE 898
+Prerequisites: Senior or graduate standing. 
+Description:
+
+Independent project executed under the guidance of a member of the faculty of the School of Computing. Solution and documentation of a computer problem demanding a thorough knowledge of either the numerical or nonnumerical aspects of computer science.
+Course details
+
+Credit Hours:
+1-6
+
+Max credits per semester:
+6 
+
+Max credits per degree:
+6 
+
+Grading Option:
+Graded with Option 
+
+Credit Hours:
+1-6
+ACE:
+
+
+PLEASE NOTE
+This document represents a sample 4-year plan for degree completion with this major. Actual course selection and sequence may vary and should be discussed individually with your college or department academic advisor. Advisors also can help you plan other experiences to enrich your undergraduate education such as internships, education abroad, undergraduate research, learning communities, and service learning and community-based learning.
+
+Icon Legend: 
+Critical
+
+15 HR 
+TERM 1
+
+Calculus I
+
+
+complete 
+MATH 106
+
+5hr
+
+ 
+
+MATH 106 is ideally completed in the first term of enrollment. It becomes critical to your success in the major if not completed by the second term of enrollment. This will also fulfill the ACE 3 requirement. 
+
+Computer Science Core
+
+
+complete 
+CSCE 10
+, 
+RAIK 10
+, 
+ENGR 10
+, or
+ENGR 30
+and either 
+CSCE 155A
+, 
+CSCE 155H
+, 
+CSCE 155E
+, or 
+CSCE 155T
+
+3hr
+
+C
+
+ 
+
+ACE 5 Humanities
+
+complete 1 from ACE5
+
+3hr
+
+ 
+
+ 
+
+Science Courses
+
+recommend 1 or more courses
+
+4hr
+
+ 
+
+Complete one from approved science course list. See Degree Audit for choices. Select a course that fulfills ACE 4. 
+
+15 HR 
+TERM 2
+
+Computer Science Core
+
+
+complete 
+CSCE 156
+or 
+CSCE 156H
+and 
+CSCE 235
+or 
+CSCE 235H
+
+7hr
+
+C
+
+ 
+
+Calculus II
+
+complete 
+MATH 107
+
+4hr
+
+ 
+
+ 
+
+Science Courses
+
+recommend 1 or more courses
+
+4hr
+
+ 
+
+Complete one from approved science course list. See Degree Audit for choices. Select a course that fulfills ACE 4. 
+
+15 HR 
+TERM 3
+
+Computer Science Core 
+
+complete either 
+CSCE 310
+or 
+CSCE 310H
+
+3hr
+
+C
+
+CSCE 310 or CSCE 310H is ideally completed in the third term of enrollment. It becomes critical to your success in the major if not completed by the fourth term of enrollment. 
+
+ACE 1 Written Communication
+
+complete 1 from ACE 1 with 
+BSAD, ENGL, ENGR, or JGEN prefixes
+
+3hr
+
+ 
+
+ 
+
+Linear Algebra 
+
+complete 
+MATH 314
+
+3hr
+
+ 
+
+ 
+
+Computer Science Depth
+
+complete 
+CSCE 320
+
+3hr
+
+C
+
+ 
+
+ACE 2 Communication Skill
+
+complete 1 from ACE2
+
+3hr
+
+ 
+
+ 
+
+15 HR 
+TERM 4
+
+Computer Science Core
+
+complete 
+CSCE 231
+
+4hr
+
+C
+
+ 
+
+Computer Science Core
+
+
+complete either 
+CSCE 361
+or 
+CSCE 361H
+
+3hr
+
+C
+
+ 
+
+Computer Science Core
+
+complete 
+CSCE 251
+
+1hr
+
+ 
+
+ 
+
+Science Courses
+
+recommend 1 or more courses
+
+4hr
+
+ 
+
+Complete one from approved science course list. See Degree Audit for choices. Select a course that fulfills ACE 4. 
+
+Electives
+
+complete Any Course*
+
+3hr
+
+ 
+
+In consultation with your advisor, select elective course or courses that meet the requirements of the required minor or second major. 
+
+15 HR 
+TERM 5
+
+Computer Science Core
+
+complete 
+CSCE 322
+
+3hr
+
+C
+
+ 
+
+Computer Science Depth
+
+complete either 
+CSCE 351
+or 
+CSCE 451
+
+3hr
+
+C
+
+ 
+
+Statistics
+
+complete 
+STAT 380
+ or 
+RAIK 270H
+
+3hr
+
+ 
+
+ 
+
+Core AI, Networking, and Robitics
+
+complete 1 from 
+CSCE 336
+, 
+CSCE 360
+, 
+CSCE 362
+, 
+CSCE 377
+, 
+CSCE 410
+, 
+CSCE 411
+, 
+CSCE 413
+, 
+CSCE 415
+, 
+CSCE 417
+, 
+CSCE 420
+, 
+CSCE 421
+, 
+CSCE 422
+, 
+CSCE 436
+, 
+CSCE 438
+, 
+CSCE 439
+, 
+CSCE 443
+, 
+CSCE 454
+, 
+CSCE 458
+, 
+CSCE 459
+, 
+CSCE 460
+, 
+CSCE 462
+, 
+CSCE 463
+, 
+CSCE 464
+, 
+CSCE 465
+, 
+CSCE 469
+, 
+CSCE 471
+, 
+CSCE 472
+, 
+CSCE 473
+, 
+CSCE 474
+, 
+CSCE 475
+, 
+CSCE 476
+, 
+CSCE 478
+, 
+CSCE 479
+, 
+CSCE 480H
+
+3hr
+
+ 
+
+ 
+
+Electives
+
+complete Any Course*
+
+3hr
+
+ 
+
+In consultation with your advisor, select elective course or courses that meet the requirements of the required minor or second major. 
+
+Milestones
+
+You must declare a required minor by this term.
+
+15 HR 
+TERM 6
+
+Computer Science Depth
+
+complete either 
+CSCE 423
+or 
+CSCE 428
+
+3hr
+
+C
+
+ 
+
+Technical Course
+
+complete either Any Computer Science Course at the 300 Level* or Any Computer Science Course at the 400 Level*
+
+3hr
+
+C
+
+Complete an approved CSCE course at the 300 or 400 level. 
+
+Art, Hum, Soc Sci Breadth
+
+recommend 1 or more courses
+
+3hr
+
+ 
+
+Complete one from approved science course list. See Degree Audit for choices. Select a course that fulfills ACE 4. 
+
+ACE 7 Arts
+
+complete 1 from ACE7
+
+3hr
+
+ 
+
+ 
+
+Electives
+
+complete Any Course*
+
+3hr
+
+ 
+
+ 
+
+15 HR 
+TERM 7
+
+Senior Design Experience
+
+complete either 
+CSCE 486
+or 
+CSCE 486H
+
+3hr
+
+C
+
+CSCE 486 or CSCE 486H will fulfill the ACE 8 requirement. CSCE 486 and CSCE 486H are only offered in the Fall semester. CSCE 486 or CSCE 486H will meet the experiential learning requirement. 
+
+Technical Course
+
+complete 1 from Any Computer Science Course at the 300 Level*, Any Computer Science Course at the 400 Level*, 
+MATH 428
+, 
+MATH 433
+, 
+MATH 439
+, 
+MATH 450
+, 
+MATH 452
+
+3hr
+
+C
+
+Complete an approved CSCE course at the 300 or 400 level or one of the listed MATH courses. 
+
+Diversity US Comm Breadth
+
+recommend 1 or more courses
+
+3hr
+
+ 
+
+Complete a Diversity in the US course. 
+
+Electives
+
+complete Any Course*
+
+6hr
+
+ 
+
+In consultation with your advisor, select elective course or courses that meet the requirements of the required minor or second major. 
+
+15 HR 
+TERM 8
+
+Senior Design Experience
+
+complete either 
+CSCE 487
+or 
+CSCE 487H
+
+3hr
+
+C
+
+CSCE 487 or CSCE 487H will fulfill the ACE 10 requirement. CSCE 487 and CSCE 487H are only offered in the Spring semester and must be taken in the term immediately following CSCE 486 or CSCE 486H. CSCE 487 or CSCE 487H will meet the experiential learning requirement. 
+
+Technical Course
+
+complete either Any Computer Science Course at the 300 Level* or Any Computer Science Course at the 400 Level*
+
+3hr
+
+C
+
+Complete an approved CSCE course at the 300 or 400 level. 
+
+ACE 6 Social Sciences 
+
+complete 1 from ACE6
+
+3hr
+
+ 
+
+ 
+
+ACE 9 Global/Human Diversity
+
+complete 1 from ACE9
+
+3hr
+
+ 
+
+ 
+
+Electives
+
+complete Any Course*
+
+3hr
+
+ 
+
+In consultation with your advisor, select elective course or courses that meet the requirements of the required minor or second major. 
+
+Graduation Requirements
+
+120 hours required for graduation.
+
+A minimum 2.40 GPA required for graduation.
+
+Complete 30 hours in residence at UNL.
+
+***Total Credits Applying Toward 120 Total Hours***
+
+Career Information
+The following represents a sample of the internships, jobs and graduate school programs that current students and recent graduates have reported.
+Transferable Skills
+Implement appropriate technological interventions to help solve problems
+Collaborate with a team to develop solutions
+Simplify complex information and present it to others
+Use quantitative analysis techniques
+Document and replicate processes and procedures
+Apply mathematical and scientific skills to solve real-world problems
+Make decisions carefully, using appropriate theoretical frameworks
+Make predictions using mathematical, statistical, and scientific modeling methods
+Jobs of Recent Graduates
+Mobile App Developer, Sandhills Publishing - Lincoln, NE
+Software Consultant, Self Employed - Austin, TX
+Programmer, Nebraska Heart Hospital - Lincoln, NE
+Business Technology Support Technician, Nebraska Department of Roads - Lincoln, NE
+GIS Web Developer/Analyst, The North Jackson Company - Marquette, MI
+Officer, United States Air Force - Cheyenne, WY
+Software Developer, Experian - Lincoln, NE
+Systems Application Specialist, Sandhills Publishing - Lincoln, NE
+Data Engineer, Hudl - Lincoln, NE
+Technology Specialist, TD Ameritrade - Omaha, NE
+More...
+Software Engineer, Union Pacific - Omaha, NE
+Software Engineer, Lockheed Martin - Littleton, CO
+Implementation Consultant, Fast Enterprises, LLC - Atlanta, GA
+Junior Application Developer, Builder Trend - Omaha, NE
+Developer, Microsoft - Redmond, WA
+Internships
+System Application Developer Intern, Gallup - Lincoln, NE
+Sandhills Systems Intern, Sandhills Publishing - Lincoln, NE
+Data Science Intern, Hudl - Lincoln, NE
+Junior Developer, NeSis - Lincoln, NE
+Student Web Developer, Internet and Interactive Media, University of Nebraska-Lincoln - Lincoln, NE
+Year Round PC Build Intern, Union Pacific - Council Bluffs, IA
+Software Development Intern, Nelnet - Lincoln, NE
+IOS Intern, OSG Corporation - Irving, TX
+Programmer, GIS Workshop - Lincoln, NE
+Research Intern, ABB Corporate Research Center - Raleigh, NC
+More...
+Web Develop Intern, Lincoln Stars - Lincoln, NE
+Functional Assurance Intern, FISERV - Lincoln, NE
+Software Engineer Intern, Bosch Security System - Lincoln, NE
+Application Development Intern, BuilderTREND - Omaha, NE
+Software Developer Engineer Intern, Zillow - Lincoln, NE
+Graduate & Professional Schools
+Master's in Data Science, University of Minnesota - Twin Cities, MN
+Master's in Computer Science, University of Nebraska-Lincoln - Lincoln, NE
+Ph.D., Computer Science, University of Nebraska-Lincoln - Lincoln, NE
+Master's in Mathematical Science, Purdue University - West Lafayette, IN
+Juris Doctorate, University of Nebraska-Lincoln - Lincoln, NE
+Ph.D., Physics, University of Nebraska-Lincoln - Lincoln, NE
+Ph.D., Computer Science, University of Texas at Austin - Austin, TX
+Master's in Computer Science, Arizona State University - Tempe, AZ
+Medical Doctor, University of Nebraska Medical Center - Omaha, NE
+Ph.D., Computer Science, Ohio State University - Columbus, OH

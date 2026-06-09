@@ -1,0 +1,131 @@
+Professor: Christopher Bourke
+Department: Computer Science
+School: University of Nebraska - Lincoln
+Course: CS155E
+Average Rating: 4.4/5
+Average Difficulty: 3.5/5
+Total Ratings: 83
+
+--- Student Reviews ---
+
+Course: CSCE156H
+Quality: 5/5 Difficulty: 4/5
+Date: 2026-04-25
+Best cs prof I've ever had. Lectures moved at a fast pace, but if you pay attention you do fine. I came to CSCE 156H from 155A, and I had a lot of python exp but no java, so I taught myself java at the beginning of the semester, but the first few labs can be done in either lang! Weekly labs and assignments, not too much homework. No final or exams.
+---
+
+Course: CSCE155E
+Quality: 5/5 Difficulty: 4/5
+Date: 2025-12-04
+The professor was tough but I enjoy the class, it was needed as an introduction for students
+---
+
+Course: CSCE155E
+Quality: 3/5 Difficulty: 4/5
+Date: 2025-10-14
+Although he is a great professor for teaching I do find him to be kind of an ass, he is very knowledgeable and when asked a question he gives great answers but usually responds in a snarky response. The TAs are nice, but pretty useless.
+---
+
+Course: CSCE156
+Quality: 4/5 Difficulty: 4/5
+Date: 2025-05-09
+Really good professor, not the best at UNL but he is up there. The class is time consuming but he does a good job teaching. Only negatives are that his instructions are worded horribily. And that the graders for assignments will take off points for things never mentioned on the rubric, which is kinda dumb.
+---
+
+Course: CSCE156
+Quality: 4/5 Difficulty: 4/5
+Date: 2025-04-24
+Bourke is a fantastic professor, one of the best at UNL. The issue is the TA's he has for this course are god awful and assholes. 90% of them probably ChatGPTed their way through this course and that's why they have no idea how to do any of this. You're better off not going to labs and half the feedback they leave on assignments is pointless anyway
+---
+
+Course: CSCE156
+Quality: 4/5 Difficulty: 4/5
+Date: 2025-04-13
+This is a very time-consuming class but Bourke does an amazing job teaching it. He is truly passionate about CS and does a great job explaining code. Plus he is very accessible outside of class, even late at night on Campuswire. 
+
+TAs for this class are not great though. Some are helpful, but most TAs will just direct you towards ChatGPT for help.
+---
+
+Course: ECEN156
+Quality: 5/5 Difficulty: 3/5
+Date: 2025-04-11
+This course requires lots of time outside of class.. There are no tests or quizzes. Only graded based on assignments, a program that is slowly built over the semester, and labs, which are unfinished programs that you will complete. Easy to receive an A in the class if you put in the necessary time, but just as easy to fail if you do not.
+---
+
+Course: CSCE155E
+Quality: 5/5 Difficulty: 2/5
+Date: 2025-02-09
+You learn a lot if you pay attention and the assignments are very doable.
+---
+
+Course: CSCE156
+Quality: 4/5 Difficulty: 5/5
+Date: 2024-05-11
+This was a tough class but this is probably the best instructor you could have for it, he's a good professor who I've had for 2 semesters. If you go to lectures/pay attention, he discusses every topic needed for the project/labs, you have to know what you're looking for. The lectures do feel out of sync with current assignments though...
+---
+
+Course: CSCE156H
+Quality: 5/5 Difficulty: 4/5
+Date: 2024-05-06
+Had him for both CSCE 155H & 156H. Amazing teacher in both and very good at explaining complicated topics. Homework might not seem frequent (a weekly lab and a biweekly assignment), but they can be more difficult then they seem, and if you save things for the last 2 or 3 days you might be doing a lot of work in a very short time.
+---
+
+Course: CSCE156H
+Quality: 4/5 Difficulty: 3/5
+Date: 2024-04-25
+He really knows what he's doing. He is smart and very helpful. However, his directions are VERY confusing. His lectures are really good and he keeps things interesting. All of the TAs I've asked for help have been great. 
+---
+
+Course: CSCE156
+Quality: 4/5 Difficulty: 3/5
+Date: 2024-02-22
+He's condescending and his feedback is rarely helpful. Go to the TAs for help, don't ask him. That said, if you have the option to take a class with Bourke, do so. His lectures are all available on youtube, he knows what he's talking about, and explains concepts well in lectures. The same can't be said for all comp-sci professors at UNL.
+---
+
+Course: CSCE155E
+Quality: 5/5 Difficulty: 3/5
+Date: 2024-01-25
+Very easy to understand lectures; the labs and hacks could be difficult but he responds quickly to questions and is generally pretty helpful
+---
+
+Course: CSCE155E
+Quality: 1/5 Difficulty: 5/5
+Date: 2024-01-21
+This professor was awful to me, I asked for help and he emailed me some very condescending replies. He lowered my test grade AFTER the T.A graded it because he "didn't like the spacing in the code". He reported a vast amount of his past classes for cheating and got it on their records. He refuses to help with any code. He also has 2 Labs a week.
+---
+
+Course: CSCE155H
+Quality: 5/5 Difficulty: 3/5
+Date: 2023-12-05
+I really enjoyed this class. I was in the honors section, but I didn't have much coding experience before college. Bourke made the class good for beginners and provided rigor for those who had some experience. If you go to office hours and all of the recitations, you will get an A. He is also really great about responding on Piazza.
+---
+
+Course: CSCE155H
+Quality: 5/5 Difficulty: 3/5
+Date: 2023-10-06
+Best CS professor at UNL. You'll always get the best grade if you put in the work.
+---
+
+Course: CSCE155H
+Quality: 5/5 Difficulty: 3/5
+Date: 2023-09-27
+Always energetic and makes lectures fun
+---
+
+Course: CSCE155E
+Quality: 5/5 Difficulty: 3/5
+Date: 2023-09-13
+Bourke is very knowledgeable, and a talented professor. You can tell how passionate he is about programming, and gives a ton of examples during lecture. 
+---
+
+Course: CSCE156
+Quality: 4/5 Difficulty: 4/5
+Date: 2023-09-05
+This class is difficult, but I can confidently say I am glad it was. If you are willing to put in the time and effort, Bourke does a great job teaching everything you need to know and more. Bourke is very thorough and brilliant. He provides his textbook for free for an extra resource. I wish I could take all classes with him. 
+---
+
+Course: CSCE156
+Quality: 5/5 Difficulty: 1/5
+Date: 2023-06-28
+Great class, Great professor, I learned a lot. Would take again. He has a youtube channel that is really helpful in other classes too in case you get a bottom barreler professor for 310 (you know who im talking about)
+---

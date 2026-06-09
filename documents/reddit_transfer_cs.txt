@@ -1,0 +1,64 @@
+Title: SCC->UNL Comp Sci
+
+A subreddit for students, faculty, alumni, or anyone that considers the University of Nebraska - Lincoln their home.
+Go Big Red
+Rules:
+Be Kind
+- Assume best intent and don't be mean to your fellow Huskers.
+No "Chance Me" Posts
+- If you want to ask "What are the chances of XXX, here are my stats", take it over to
+/r/chanceme
+or
+/r/ApplyingToCollege/
+.
+No Personal Information
+- Do not post personal information about yourself or others beyond what is publicly available.
+No Low Effort Posting
+- Make an effort by searching first and being thoughtful in your post. Huskers want to help, don't waste their time.
+No Soliciting
+- No surveys, research studies, petitions, self-promotions, or offering / requesting of paid services. Try Facebook for that instead.
+FAQ
+Work In Progress
+Related Subreddits:
+/r/Huskers
+/r/lincoln
+/r/Nebraska
+
+--- Comments ---
+
+A subreddit for students, faculty, alumni, or anyone that considers the University of Nebraska - Lincoln their home. Go Big Red Rules: Be Kind - Assume best intent and don't be mean to your fellow Huskers. No "Chance Me" Posts - If you want to ask "What are the chances of XXX, here are my stats", take it over to /r/chanceme or /r/ApplyingToCollege/ . No Personal Information - Do not post personal information about yourself or others beyond what is publicly available. No Low Effort Posting - Make an effort by searching first and being thoughtful in your post. Huskers want to help, don't waste their time. No Soliciting - No surveys, research studies, petitions, self-promotions, or offering / requesting of paid services. Try Facebook for that instead. FAQ Work In Progress Related Subreddits: /r/Huskers /r/lincoln /r/Nebraska
+---
+
+So the school of raikes is a 4 year computer science and business program. They have their own dorms in the center of campus, and their own classes. Raikes itself is also an honors program. If you get into raikes you are an honors student and have those strings attached. Also they like to get freshman and have them all 4 years, so transferring in is pretty rare. For UNL's computer science program (which I'm in), you still have the same honors opportunities, undergraduate research positions, and you get more leeway in picking what classes you want to take (e.g. you don't have to get a minor in business, freeing up more electives). For a computer science degree you are under unl's college of arts and sciences. For a software engineering major you're under the college of engineering. The main difference is requirements. The college of arts and sciences has more humanities requirements, but personally I find them really valuable. Intro to philosophy is one of my favorite classes. For transferring talk to your advisor at SCC. They will most likely know what courses transfer or not. Otherwise, you can try sending an email to one of the advisors found here: https://cse.unl.edu/undergraduate-advising-center Just from my research and opinions i've developed while at UNL (i'm a sophomore next term) when I was choosing where to go to school, UNL is probably the best place in state to learn computer science. It's possible that raikes might be better, but personally I think unl's regular computer science program was a better fit for me. They each have their own pros and cons. Also raikes has something called "design studio" that anyone in unl can apply for to replace their senior capstone project where you get the chance to work on a real startup or something. Definitely something to look into
+---
+
+To add to this - the CS program at UNL has a 6 semester pipeline. Meaning that in order to take all required major classes in order, it takes 6 semesters. But, you could certainly take plenty of general education requirements at SCC and perhaps the first few CS pipeline classes as well, but that would be a question for an advisor. I was a 2-year-transfer student from a CC in Tampa, and I changed my major during my first fall semester at UNL and graduated in 5 years - so I think it would be possible to do it in 4 if that's important. I was also a Raikes Design Studio Associate as well as a non-Raikes CS major. Basically, for their senior projects they have industry sponsors (Hudl, Proxibid, Fiserve, Microsoft etc) who have their project proposals selected by the Raikes School administrators and the junior and senior students form teams to produce a product for them that year. They typically need additional CS/CE/SE students to augment their teams and that's where the "associate" program comes in. I was invited to apply and there's a small interview process, but I believe anyone can apply to be an associate typically. Hope that gives you a little more insight!
+---
+
+There is a plan in the works however to move Computer Science under the College of Engineering so all things CSE are under one college/roof for recruiting and funding purposes. https://journalstar.com/news/local/education/unl-eyeing-new-school-of-computing-to-meet-workforce-needs/article_6d9eb1c2-909c-562e-b4d9-63aedbbf0edb.html
+---
+
+Raikes is really great if you want to work for Microsoft.
+---
+
+I would highly recommend looking at the differences between compSci and CompEng
+---
+
+TL;DR math and electrical engineering.
+---
+
+Well, not really
+Comp sci also requires you to have foreign language credit as it's in the college of Arts and Science. Also, it's more than just added EE, CE's actually get more low level programming experience, which in my biased opinion, is better than getting the high level knowledge from class that you'll mostly learn anyway through experience or can teach yourself pretty easily.
+---
+
+I didn't realize about the language requirement. It may have changed since I was a student, or possibly I was confusing graduation requirements and admission requirements. CE's actually get more low level programming experience That's like, a quarter of an EE degree, potentially more depending on your path.
+---
+
+Yeah, actually this is why im both EE & CE
+---
+
+Good luck, it can be a stressful program. Highly recommend taking a class from Sayood if you get the chance.
+---
+
+Im already 4 years deep, probably 2 to go. I already took Signals with him, he's a cool dude.
+---

@@ -1,0 +1,131 @@
+Professor: Jeffrey Falkinburg
+Department: Computer Science
+School: University of Nebraska - Lincoln
+Course: CSCE230
+Average Rating: 4.1/5
+Average Difficulty: 3.3/5
+Total Ratings: 20
+
+--- Student Reviews ---
+
+Course: CSCE230
+Quality: 4/5 Difficulty: 3/5
+Date: 2026-04-30
+Attendance does not technically affect grades, however Falkinburg does take attendance daily and a decent portion of the final grade is pop quizzes that require a code provided in class and are locked after class. Lectures are best I've had in the CoE, and help is very accessible. Lecture materials and study guide provided on canvas. DLC exams.
+---
+
+Course: CSCE336
+Quality: 4/5 Difficulty: 4/5
+Date: 2025-05-28
+Very good slides and resources in general &#8212; every lecture is recorded, which is helpful because they can sometimes be hard to follow. You'll be reading out of PDFs a lot; make sure you can search through 400+ pages for the paragraph you need. Homework and projects are long, not too difficult, and normally pretty fun.
+---
+
+Course: CSCE436
+Quality: 5/5 Difficulty: 5/5
+Date: 2025-05-17
+I wouldn't take the class again. need some background in vhdl i did not have. crazy deadlines (1.5 to complete assignment) a lot of homework 3 a week pretty much. ta and professor are very helpful and probably the only reason I passed. labs are difficult after the first one. a lot of people drop out. the most amount of time I have put into a class
+---
+
+Course: CSCE230
+Quality: 4/5 Difficulty: 4/5
+Date: 2024-12-21
+Decent professor who gave decent lectures. The real saving grace is that he has a *ton* of notes, lectures, etc. online, so that it's real easy to study for tests and find examples. Gives homework and pop-quizzes every few weeks, labs every week, and has 3 midterms + final. Tests went awful for most, but were a pretty small part of the grade.
+---
+
+Course: CSCE230
+Quality: 3/5 Difficulty: 3/5
+Date: 2024-12-17
+The class was great for the first 2/3 but got worse for the last midterm (of 3 total) and final. 3rd midterm's average was 46% until he hid it on Canvas. The final covered difficult parts of the course and neglected key areas, but I digress. I understood everything I thought I needed, but the last 2 exams were statistically bad for the majority.
+---
+
+Course: CSCE336
+Quality: 4/5 Difficulty: 3/5
+Date: 2024-05-12
+This class contains a lot of work but you will learn a lot from it. All the needed class resources are easy to find on canvas. He responds quickly to questions. Biggest issues with the class are a cheap robot with too many inconsistencies and vague assignment instructions/requirements occasionally. It was also difficult to learn from some lectures.
+---
+
+Course: CSCE236
+Quality: 3/5 Difficulty: 4/5
+Date: 2024-02-08
+nice guy but showed us literal propaganda for the US military. kinda weird ngl
+---
+
+Course: CSCE436
+Quality: 5/5 Difficulty: 3/5
+Date: 2024-01-23
+Great professor!!! One of the best professors in UNL and if you happen to be in CE, SE, or CS, I highly recommend taking one of his classes.
+---
+
+Course: CSCE230
+Quality: 5/5 Difficulty: 3/5
+Date: 2023-12-09
+Lectures can be very heavy but are easy to understand. Entire class layout and materials are provided on day 1. Assignments have extra credit just for providing feedback. A cheat sheet is allowed for each exam. The labs and HW assignments are critical to learning in this class. He is easily accessible and has a very fair grading distribution.
+---
+
+Course: CSCE230
+Quality: 5/5 Difficulty: 3/5
+Date: 2023-11-15
+This class is one of my favorite sophomore year. Lectures are h e a v y, but Dr. Falkinburg covers the material well and gives plenty of resources to use. Assignments are bit of work, but shouldn't take more than three hours once every week or two. You can bring notes to exams, and assignments have 3% extra credit option. He keeps you on track.
+---
+
+Course: CSCE230
+Quality: 5/5 Difficulty: 4/5
+Date: 2023-11-03
+Lectures are heavy but it is a class filled with a lot of material. The early labs are machine coding which learning syntax can be difficult. Tests are open note. One lab despite given 2 weeks is a lot of work. 
+
+Cares about the students and wants them to succeed. Overall my favorite professor in the School of Computing. 
+---
+
+Course: CSCE486
+Quality: 4/5 Difficulty: 1/5
+Date: 2023-03-21
+Yea. Pretty good. Could be worse.
+---
+
+Course: CSCE230
+Quality: 4/5 Difficulty: 3/5
+Date: 2023-01-17
+I really liked Professor Falkinburg as a professor. He was very personable and always available to help. I would say the material was more time-consuming than difficult. Make sure to ask questions to the TAs and Prof Falkinburg. Tests were oddly difficult and fast paced. Make sure to study for exams, do homework and labs, and you'll be okay.
+---
+
+Course: CSCE436
+Quality: 4/5 Difficulty: 3/5
+Date: 2021-04-21
+Jeff is a great professor. He spends his lectures going over material that will help with that lecture's homework. This class has a lot of programming, so having some background knowledge will help with this class. He is also very active on Piazza for any questions you may have while completing homework and labs.
+---
+
+Course: CSCE236
+Quality: 5/5 Difficulty: 3/5
+Date: 2021-03-25
+Falkinburg is the best professor for Embedded systems. His lectures are entertaining and he always posts the slide so you can go back. Most importantly he really cares about his students success. He will stay after class and respond to emails. He cares that you learn and understand. If you take advantage of all the help, you learn a lot.
+---
+
+Course: CSCE230
+Quality: 3/5 Difficulty: 5/5
+Date: 2020-10-29
+Falkinburg is the example of meh professors,hes cares for his students and want them to succeed, but hes not very good at teaching. He lectures very heavy and it can get confusing most of the times. His lectures are as far as it can be from the lab, so make sure put good effort on the labs. Labs are hard but he hides code in lectures sometimes
+---
+
+Course: CSCE236
+Quality: 2/5 Difficulty: 3/5
+Date: 2020-02-16
+Falkinburg seemed to lack knowledge of the first class he taught CSCE 230 (in which I got an A). CSCE 236 is much worse, he is not knowledgeable, and is unorganized. He knows less than his TA's and changes instructions (contradicting himself) every assignment. Hard to keep track, but the class will still be an A with work.
+---
+
+Course: CSCE231
+Quality: 4/5 Difficulty: 2/5
+Date: 2020-01-09
+Falkinburg is pretty easy going, and the material isn't too tough, at least if you have some sense about how computers work. He does lean a bit heavy on the slides, though, and it sometimes seems like he'll see something on a slide that he has forgotten about, and so just mentions it and it's up to you to figure out what it's all about.
+---
+
+Course: CSCE231
+Quality: 4/5 Difficulty: 3/5
+Date: 2019-11-11
+Professor Falkinburg seems to be very knowledgeable and uses class time well. He moves the class at a decent pace, and works hard to help students. The labs were generally pretty easy, but having to share an Altera board is less than ideal. My only complaint is some of the material is taught at recitation and becomes a bit more disjointed as such.
+---
+
+Course: CSCE230
+Quality: 5/5 Difficulty: 3/5
+Date: 2019-11-01
+Very good professor, currently taking his CSCE 230 Computer Organization class. He will throw a lot of information your way, but structures his lectures, quizzes, labs, and exams such that if you are staying current on material, you will be fine. Laid back teaching style, will answer any questions.
+---

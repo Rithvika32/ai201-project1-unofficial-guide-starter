@@ -1,0 +1,45 @@
+Professor: Alisha Bevins
+Department: Computer Science
+School: University of Nebraska - Lincoln
+Course: CSCE378
+Average Rating: 5/5
+Average Difficulty: 1.8/5
+Total Ratings: 5
+
+--- Student Reviews ---
+
+Course: csce155t
+Quality: 5/5 Difficulty: 2/5
+Date: 2026-05-06
+SUPER caring and understanding. One of the nicest profs ive had. Very easy to take her course and easy to get a good grade if you put in a tiny bit of effort. 
+---
+
+Course: CSCE311
+Quality: 5/5 Difficulty: 2/5
+Date: 2026-05-04
+Genuinely wants the students to have as much success as she can help with. Deep dives into difficult topics and constantly asks for feedback on learning progress and how the lectures should be structured to help understanding. Highly recommend going to lectures even with non-mandatory attendance. 
+---
+
+Course: csce155t
+Quality: 5/5 Difficulty: 1/5
+Date: 2026-04-01
+Awesome and clear communicator. Very nice and helpful feedback. 
+---
+
+Course: CSCE378
+Quality: 5/5 Difficulty: 3/5
+Date: 2026-03-04
+This class's difficulty is dependent on your project design. I encourage you to structure the project so you can put it on your resume. Alisha is an honest professor, but her lectures put me to sleep at times. Get good partners on the 1st day, or you will have to work with poopoo heads the rest of the semester.
+---
+
+Course: CSCE378
+Quality: 5/5 Difficulty: 1/5
+Date: 2023-12-06
+This class was very easy. Attendance was only mandatory to fill to do in-person quizzes and activities. There is a group project that lasts the entirety of the semester, but as long as you don't over complicate it, it is a pretty easy class.
+---
+
+Course: CSCE378
+Quality: 5/5 Difficulty: 2/5
+Date: 2023-12-01
+Attendance only required in 50% of lectures to complete in-class quizzes and activities. Lecture material is not super important. There is a group project lasting 14 weeks with difficulty varying by the topic you choose. Overall a fairly easy class and would take again.
+---

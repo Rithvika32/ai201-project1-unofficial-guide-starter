@@ -1,0 +1,42 @@
+Title: Computer Science Questions
+
+A subreddit for students, faculty, alumni, or anyone that considers the University of Nebraska - Lincoln their home.
+Go Big Red
+Rules:
+Be Kind
+- Assume best intent and don't be mean to your fellow Huskers.
+No "Chance Me" Posts
+- If you want to ask "What are the chances of XXX, here are my stats", take it over to
+/r/chanceme
+or
+/r/ApplyingToCollege/
+.
+No Personal Information
+- Do not post personal information about yourself or others beyond what is publicly available.
+No Low Effort Posting
+- Make an effort by searching first and being thoughtful in your post. Huskers want to help, don't waste their time.
+No Soliciting
+- No surveys, research studies, petitions, self-promotions, or offering / requesting of paid services. Try Facebook for that instead.
+FAQ
+Work In Progress
+Related Subreddits:
+/r/Huskers
+/r/lincoln
+/r/Nebraska
+
+--- Comments ---
+
+A subreddit for students, faculty, alumni, or anyone that considers the University of Nebraska - Lincoln their home. Go Big Red Rules: Be Kind - Assume best intent and don't be mean to your fellow Huskers. No "Chance Me" Posts - If you want to ask "What are the chances of XXX, here are my stats", take it over to /r/chanceme or /r/ApplyingToCollege/ . No Personal Information - Do not post personal information about yourself or others beyond what is publicly available. No Low Effort Posting - Make an effort by searching first and being thoughtful in your post. Huskers want to help, don't waste their time. No Soliciting - No surveys, research studies, petitions, self-promotions, or offering / requesting of paid services. Try Facebook for that instead. FAQ Work In Progress Related Subreddits: /r/Huskers /r/lincoln /r/Nebraska
+---
+
+How is the program for somebody who is looking to go into machine learning? I just was accepted.
+---
+
+There are a couple classes you might find interesting, but you're probably going to have to wait until Junior/Senior year unless you're coming in with transfer/AP credit, in which case you could maybe take them sophomore year. Intro to Machine Learning, Intro to Artificial Intelligence, Intro to Deep Learning, Intro to Data Mining. There are also different special topics courses offered irregularly that might be of interest. Your best bet is to get involved in research once you feel somewhat competent in coding and algorithms. What is your experience with computer science? Edit: Also, what semester are you going to start?
+---
+
+That's alright I don't mind waiting if it is worth it. Next Fall, and I have been writing code for a while, doing kaggle competitions to keep myself sharp, projects here and there. Thank you a lot for the reply
+---
+
+If you have working submissions for kaggle competitions, then you're on a great pace. The thing is, these classes are 'Intro to...' so while you will learn a lot, it's not advanced topics. For deep learning, our homework assignments were designing neural network architectures to do certain tasks, but to go into more advanced stuff, meet faculty and get involved in research. If you're thinking data science, (it's still a long ways out obviously so don't worry about it now) you should consider grad school. I did undergrad at UNL and I continued on to grad school at UNL. The big thing about UNL is that it's not necessarily academically formidable, but it's a Big Ten school for a reason. You'll have access to more resources and opportunities than you could possibly utilize. Also, our applied computer science research is kind of a heavyweight, especially in the area of agriculture. Here's some general advice: - join a learning community. I was in one freshman year, and I still hang with the friends I made there. - you could probably test out of comp sci 1 if you know C/Java. -If you join the honors program, you get access to smaller class sizes (that are also more advanced) for some of the earlier comp sci classes. After you get past those, it's not worth it. I'm kind of ranting, but in summary: UNL is a great choice, I came here from Minnesota, and I can't imagine going anywhere else.
+---
